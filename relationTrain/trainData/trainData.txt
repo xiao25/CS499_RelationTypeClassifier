@@ -1,0 +1,769 @@
+therapy	THERAPY: Calcium and vitamin D deficits should be substituted both in prevention and treatment of male osteoporosis.
+therapy	Unloading of weight bearing bones as induced by microgravity or immobilization has significant impacts on the calcium and bone metabolism and is the most likely cause for space osteoporosis.
+therapy	BACKGROUND: Dietary calcium deficiency may be a risk factor for osteoporosis.
+therapy	 Calcium is a very important element in the treatment of Osteoporosis, because it is the only one that acts in the mineralization phase.
+therapy	 Reduced supplies of calcium are associated with a reduced bone mass and osteoporosis, whereas a chronic and severe vitamin D deficiency leads to osteomalacia, a metabolic bone disease characterized by a decreased mineralization of bone.
+therapy	 In 1998, the expert committee of the European Community in the Report on Osteoporosis-Action on prevention, has given the recommended daily dietary allowances (RDA) for calcium at all stage of life.
+therapy	 Evidence supports routine supplementation for these people at risk of osteoporosis, by providing a daily intake of 700-800 mg of calcium and 400-800 IU of vitamin D.
+therapy	 As osteoporosis has garnered more attention there seems to be more attention than ever placed on the potential benefits of calcium and vitamin D.
+therapy	 Calcium consumption and exercise affect bone mass, and both may be the most significant factors in preventing osteoporosis.
+therapy	 In addition, as osteoporosis has garnered more attention there should be more attention than ever placed on the potential benefits of calcium and vitamin D.
+therapy	 The quantity of bone can hardly be influenced after the 35th year of age, thus prevention of osteoporosis has special significance: appropriate calcium and vitamin D supplementation, weight-bearing sports and physical activity can prevent fractures.
+therapy	 Adequate calcium supply should contribute to peak bone mass and therefore prevention of osteoporosis later in life.
+therapy	 The impact of calcium and vitamin D on risk of osteoporosis and fracture was evaluated by logistic regression adjusted for multiple covariates.
+therapy	 Calcium may play a role in prevention of osteoporosis.
+therapy	 The purpose of the present study was to examine the hypothesis that calcium from vegetable sources is associated with osteoporosis risk and bone mineral density in postmenopausal Korean women with osteoporosis and age-matched controls (N = 144).
+therapy	 Our results suggest that high dietary intake of calcium, especially plant calcium, reduces the risk of osteoporosis and increased bone mineral density in postmenopausal Korean women.
+therapy	 In addition, dietary and supplemental calcium and vitamin D, as well as weight-bearing exercise, for the preservation of bone mass and the decrease of fracture risk in patients with osteoporosis, were evaluated.
+therapy	 Calcium deficiency and reduced mobility together with unknown reasons cause type II osteoporosis, which also affects males.
+therapy	 By controlling osteoporosis and restoring the proper calcium storage function of the bone, many diseases of old age which are due to or exacerbated by calcium deficiency and disturbed calcium distribution in the body, such as hypertension, arteriosclerosis and senile dementia, may also be successfully controlled.
+therapy	The underutilization of calcium and vitamin D supplements in the prevention and treatment of osteoporosis is common among high-risk elders.
+therapy	 Adequate nutrition plays a major role in the prevention and treatment of osteoporosis; the micronutrients of greatest importance are calcium and vitamin D.
+therapy	 Calcium and vitamin D in moderation also have an excellent safety profile and may actually have benefits far beyond osteoporosis therapy.
+therapy	 In addition, almost every randomized trial of an effective osteoporosis drug therapy has utilized calcium and vitamin D to enhance the efficacy of the drug itself.
+therapy	 Calcium and vitamin D in moderation also have a good safety profile and may actually have benefits far beyond osteoporosis therapy.
+therapy	 The efficacy of new osteoporosis therapies is often compared to calcium supplementation.
+therapy	 Calcium and vitamin D are the most commonly used therapies for osteoporosis, although their efficacy in osteoporotic fracture prevention remains uncertain.
+therapy	OBJECTIVES: The analysis aims to assess (1) compliance with anti-osteoporosis pharmacotherapy and (2) the prevalence of calcium and vitamin D co-medication among Czech women in common clinical practice.
+therapy	 The search for evidence was based on real clinical scenarios, and used the following keywords (MeSH terms): Osteoporosis, Osteoporosis/ chemically induced*= (Glucocorticoids= Adrenal Cortex Hormones, Steroids), Glucocorticoids, Glucocorticoids/administration and dosage, Glucocorticoids/therapeutic use, Glucocorticoids/adverse effects, Prednisone/adverse effects, Dose-Response Relationship, Drug, Bone Density/drug effects, Bone Density Conservation Agents/pharmacological action, Osteoporosis/prevention &amp; control, Calcium, Vitamin D, Vitamin D deficiency, Calcitriol, Receptors, Calcitriol; 1-hydroxycholecalciferol, Hydroxycholecalciferols, 25-Hydroxyvitamin D3 1-alpha-hydroxylase OR Steroid Hydroxylases, Prevention and Control, Spinal fractures/prevention &amp; control, Fractures, Spontaneous, Lumbar Vertebrae/injuries, Lifestyle, Alcohol Drinking, Smoking OR tobacco use disorder, Movement, Resistance Training, Exercise Therapy, Bone density OR Bone and Bones, Dual-Energy X-Ray Absorptiometry OR Absorptiometry Photon OR DXA, Densitometry, Radiography, (Diphosphonates Alendronate OR Risedronate Pamidronate OR propanolamines OR Ibandronate OR Zoledronic acid, Teriparatide OR PTH 1-34, Men AND premenopause, pregnancy, pregnancy outcome maternal, fetus, lactation, breast-feeding, teratogens, Children (6-12 years), adolescence (13-18 years).
+therapy	 Calcium and vitamin D supplements are recommended in all patients with ALD and osteoporosis.
+therapy	Calcium and Vitamin D are widely used therapies for Osteoporosis.
+therapy	 Calcium has been recommended, but because it is considered a food supplement it has not been submitted to FDA for evaluation of its safety and efficacy as a drug in the treatment of osteoporosis.
+therapy	 Osteoporosis was diagnosed radiologically in seven patients with primary biliary cirrhosis, and calcium absorption was restored to normal in seven out of eight patients after medium-chain triglyceride therapy.
+therapy	 Calcium supplementation, estrogen replacement therapy, or both are recommended when the patient is at high risk to develop osteoporosis.
+therapy	 Calcium plus vitamin D, estrogen replacement therapy, calcitonin, and etidronate are agents currently available for treatment of osteoporosis; they act by inhibiting bone resorption.
+therapy	 Retrospective studies in adults suggest that childhood calcium intake is associated with risk of later osteoporosis and fracture.
+therapy	 In addition, common childhood clinical conditions, such as low calcium intake related to lactose intolerance or the use of glucocorticoid medications for chronic illness, are risk factors for the development of osteoporosis in childhood, not just in adulthood.
+therapy	 An approach for physicians and other pediatric care providers for screening children for low dietary calcium intake, low bone density, and other osteoporosis risk factors using dual-energy X-ray absorptiometry and the use of calcium supplementation in clinical care are presented.
+therapy	 Our conclusion from the MIR 97 mission is that an adequate calcium intake and vitamin D supplementation during space missions is mandatory but, in contrast to terrestrial conditions, does not efficiently counteract the development of space osteoporosis.
+therapy	 Despite advertising campaigns promoting better nutrition and increased awareness of osteoporosis, many women are failing to achieve an adequate calcium intake.
+therapy	 Knowledge about osteoporosis was limited and not associated with age, WBPA or calcium intake.
+therapy	CONCLUSIONS: Findings emphasize the need to expand education in all areas of osteoporosis health-related behaviors among ultra-orthodox women, and in calcium intake and exercise for secular women as well.
+therapy	Osteoporosis, which has become a serious public health concern, is influenced by diet, especially calcium intake.
+therapy	 Nature and strength of association between loss of BMD, on one hand, and presuntive risk factors of osteoporosis and state of dietetic calcium intake, on the other, were assessed.
+therapy	 Health educational programmes, which are designed to prevent osteoporosis and which identify women who are most at risk of the disease, should provide sensible nutritional advice on an adequate calcium intake and regular weight-bearing exercise among other life-style changes.
+therapy	 In conclusion it can be stated that the data support the hypothesis that adequate calcium intake through milk and milk products in childhood and adolescence is a decisive marker for obtaining a maximum bone mass (peak adult bone mass) and for the prevention of osteoporosis.
+therapy	 Furthermore, it can be stated that increased calcium intake in the later years may not reduce the accelerated risk of osteoporosis resulting from inadequate calcium intake during childhood and adolescence.
+therapy	EVIDENCE: Relevant clinical studies and reports were examined, in particular those published since the 1988 Osteoporosis Society of Canada position paper on calcium nutrition.
+therapy	 Nutritional studies demonstrate that, in general, adequate calcium intake during lifetime contributes to decrease the risk of osteoporosis.
+therapy	 Calcium supplementation is effective in decreasing the occurrence of osteoporosis.
+therapy	 Variations in serum parameters like osteocalcin, c-telopeptide, levels of elements like Calcium, Magnesium, Phosphorus, concentration of vitamin-D metabolites, lactate levels, bicarbonate concentrations, amount of alkaline phosphatase are demonstrated in the course of development of osteoporosis.
+therapy	 Calcium and vitamin D constitute an important adjunct to any osteoporosis treatment.
+therapy	 Calcium and vitamin D supplementation as an osteoporosis-prevention measure is less effective than specific antiosteoporotic treatment.
+therapy	 Calcium and vitamin D supplementation may prevent the development of osteoporosis in high-risk individuals and are useful adjuncts when used with other treatments.
+inhibit	 Dietetic calcium intakes were independent of presumptive risk factors of osteoporosis and DMO "t" score in the region of interest.
+inhibit	 Several risk factors are known in the pathogenesis of osteoporosis, first of all the lack of sufficient calcium and vitamin D intake, age, genetic factors, and circumstances known to predispose falling.
+inhibit	 Adequate calcium with or without vitamin D significantly reduced the odds of osteoporosis but not the risk of fracture in these Caucasian women.
+inhibit	CONCLUSIONS: Thus, higher calcium and vitamin D intakes significantly reduced the odds of osteoporosis but not the 3-year risk of fracture in these Caucasian women.
+inhibit	 However, in this population of low-dairy consumers, intake of calcium from meat and dairy products was not related to risk of osteoporosis and bone mineral density.
+inhibit	 Calcium/vitamin D was used by 35% of the menopausal women, none of the premenopausal women and 50% of the male patients and 18% of the menopausal women, 67% of the premenopausal women and 8% of men received no prophylaxis or treatment for osteoporosis.
+inhibit	 For those consuming inadequate dietary calcium, calcium supplements have been a standard strategy for prevention of osteoporosis.
+inhibit	 We have measured radiocalcium absorption and the fasting urinary calcium/creatinine and hydroxyproline/creatinine ratios in 30 postmenopausal women receiving prednisolone therapy and compared the patients with normal spine radiographs (N = 14) with those whose spine radiographs showed osteoporosis (N = 16).
+inhibit	 Calcium and vitamin D supplementation is not sufficient to treat persons with osteoporosis.
+inhibit	 Calcium and vitamin D are useful adjuncts to any specific treatment for osteoporosis, particularly when Calcium and vitamin D deficiencies have been diagnosed.
+inhibit	 Calcium co-medication was associated with obtaining information on medications against osteoporosis from other sources besides health care professionals (P = 0.
+inhibit	CONCLUSION: the jaw density in patients with osteoporosis is increased in only 3 months with supplementation with mf Odontovis Calcium.
+unknown	 Similarly, dental caries and osteoporosis can be considered to be in vivo dissolution of calcium phosphates.
+unknown	 Similarly, dental caries and osteoporosis can be considered to be in vivo dissolution of calcium phosphates.
+unknown	 Postmenopausal women with osteoporosis from a 3-year study comparing calcitriol versus calcium for prevention of vertebral fractures were genotyped for VDR alleles detected by FokI, BsmI, ApaI and TaqI.
+unknown	PURPOSE: The most recent large-scale studies evaluating the effects of calcium supplementation for prevention of osteoporosis-related fractures in postmenopausal women are reviewed.
+unknown	 Postmenopausal women should continue calcium supplementation to reduce osteoporosis risk.
+unknown	 Calcium supplements were the most commonly used osteoporosis drug.
+unknown	CONCLUSION: Compliance with osteoporosis medication in Czech women is suboptimal, in particular the prevalence of co-medication with calcium/vitamin D should be higher.
+unknown	Calcium, estrogen, and calcitonin are approved drug therapies for osteoporosis.
+unknown	 The results of multivariate-adjusted regression analyses indicated that the intake of calcium, plant calcium, potassium, vitamin A, carotene, vitamin B(1), niacin, vitamin E, vitamin C, and vegetables was associated with significantly reduced risk of osteoporosis after adjusting for age, body mass index, hormone replacement therapy, and energy intake.
+unknown	 Of the patients 60% were receiving medication for prophylaxis or therapy of osteoporosis, 38% calcium/vitamin D alone, 20% as combinations mostly of calcium/vitamin D + bisphosphonate, 1% received bisphosphonate only and 1% hormone replacement therapy.
+unknown	The purpose of this study was to determine the extent and integration of osteoporosis knowledge in three age groups of women and compare knowledge to calcium intake and weight-bearing physical activity (WBPA).
+unknown	RESULTS: Higher lifetime calcium intake was associated with reduced odds of osteoporosis (peripheral BMD T-score &lt; or =-2.
+unknown	 In addition, the optimal standard of care for osteoporosis should encompass adequate calcium and vitamin D intake.
+unknown	 Calcium intake appears as an obvious nutritional factor in the prevention of osteoporosis but its contribution is still not well established particularly when populations with different habitual levels of calcium intake are compared.
+inhibit	Progesterone receptors in endometrial cancer invasion and metastasis: development of a mouse model.
+inhibit	Progesterone and estrogen receptors and mammary neoplasia in the Iowa Women's Health Study: how many kinds of breast cancer are there?
+inhibit	Progesterone receptor variant increases ovarian cancer risk in BRCA1 and BRCA2 mutation carriers who were never exposed to oral contraceptives.
+inhibit	Progesterone receptor detection in paraffin sections of human breast cancers by an immunoperoxidase technique incorporating microwave heating.
+inhibit	Progesterone receptor (PR) is an estrogen-stimulated gene which has a CpG island that is heavily methylated in a significant fraction of estrogen receptor (ER)-negative/PR-negative human breast cancers and cell lines, including MDA-MB-231 cells.
+inhibit	Progesterone inhibits human endometrial cancer cell growth and invasiveness: down-regulation of cellular adhesion molecules through progesterone B receptors.
+inhibit	Progesterone combined with the elimination of adipose production of estrogen may be an effective therapy in well-differentiated endometrial cancer in the obese premenopausal woman.
+inhibit	Progesterones are, thus, related to endometrial cancer as both antagonists of estrogens and as therapeutic agents.
+inhibit	Therapeutically succesful in only the use of Progesterone in metastases and relapses of endometrial cancer and of Estrogen in the palliative treatment of cervical cancer relapses.
+inhibit	Progesterone receptor (PgR) mRNA expression was also examined to confirm that the breast cancer tissue responds to E2 and TAM.
+inhibit	Progesterone inhibits the proliferation of normal breast epithelial cells in vivo, as well as breast cancer cells in vitro.
+inhibit	Progesterone receptor status significantly improves outcome prediction over estrogen receptor status alone for adjuvant endocrine therapy in two large breast cancer databases.
+inhibit	Progesterone increases tissue factor gene expression, procoagulant activity, and invasion in the breast cancer cell line ZR-75-1.
+inhibit	Progesterone enhances cytokine-stimulated nitric oxide synthase II expression and cell death in human breast cancer cells.
+inhibit	Progesterone inhibits human breast cancer cell growth through transcriptional upregulation of the cyclin-dependent kinase inhibitor p27Kip1 gene.
+inhibit	We report here that 10 nM estradiol (E2) forms noncovalent associations with the ER, increases the level of ER and Progesterone Receptors (PR) in ER+ MCF-7 human breast cancer cells in culture following short-term or long-term exposure to E2.
+inhibit	Progesterone receptor (PR) levels were determined in 69 human breast cancer specimens by both radioligand assay (RLA) and enzyme immunoassay (EIA).
+inhibit	Progesterone metabolism in T47Dco human breast cancer cells--I.
+inhibit	The quantitative determination of Estrogen and Progesterone receptors in breast cancer is performed using about 500 mg of tissue.
+inhibit	Progesterone receptors (PgR) of human breast cancer T47-D cells grown in an estrogenic environment (presence of phenol red, natural estrogens of foetal calf serum and insulin) were found to be present in considerable amounts (1-3 pmol/mg protein and 20 pmol/mg DNA), and to specifically bind progestins with a high affinity characterized by a Kd around 3 nM for ORG2058, and 4 nM for nomegestrol acetate (NOM; 17 alpha-acetoxy-6-methyl-19-nor-pregna-4,6-diene-3, 20-dione), when measured under equilibrium conditions.
+inhibit	Progesterone induction of the 17HSD enzyme protein was demonstrated in the human endometrium during the secretory phase of the menstrual cycle and in one breast cancer cell line (T-47D) following progestin treatment.
+inhibit	Progesterone induced expression of alkaline phosphatase is associated with a secretory phenotype in T47D breast cancer cells.
+inhibit	Progesterone inhibits the proliferation of normal breast epithelial cells in vivo, as well as breast cancer cells in vitro.
+inhibit	Progesterone may be the key in influencing the risk of breast cancer with the peak of mitotic activity in the breast during the luteal phase of the menstrual cycle.
+inhibit	Progesterone receptor (PR) has been recognized as an important factor that correlates with success of endocrine treatment and patients' prognoses in endometrial cancers (EC).
+inhibit	Progesterone plays an essential role in breast development and cancer formation.
+inhibit	Progesterone acetate given at 250 mg intramuscularly twice a week for 1 month followed by increased administration to 500 mg intramuscularly every two weeks for 3 years was used in combination with platinum based chemotherapy to treat patients with epithelial ovarian cancer as a first-line therapy.
+inhibit	The objective of this study was to determine the concordance rate between core needle biopsy (CNB) and surgical excision of invasive breast cancer regarding the oestrogen receptor (ER) and Progesterone receptor (PgR) status as determined by Immunohistochemistry (IHC).
+inhibit	Progesterone therapy such this case is considered as one of therapeutic methods which can be expected remarkably effective rate in the lu metastatic foci of cancer of the uterine body.
+inhibit	Progesterone receptor quantification as a strong prognostic determinant in postmenopausal breast cancer women under tamoxifen therapy.
+inhibit	Progesterone receptor gene polymorphism is associated with decreased risk for breast cancer by age 50.
+inhibit	Progesterone metabolism in T47Dco human breast cancer cells--II.
+therapy	Progesterone induces cellular differentiation in MDA-MB-231 breast cancer cells transfected with progesterone receptor complementary DNA.
+therapy	Progesterone or synthetic progestins have been used in combined hormone replacement therapy (HRT) to prevent endometrial cancer risk.
+therapy	Hypothesis: Progesterone primes breast cancer cells for cross-talk with proliferative or antiproliferative signals.
+therapy	Progesterone induces focal adhesion in breast cancer cells MDA-MB-231 transfected with progesterone receptor complementary DNA.
+therapy	Progesterone and estradiol enhance lipid mediated transfection of Sk-Br-3 mammalian cancer cells.
+therapy	Progesterone crosstalks with insulin-like growth factor signaling in breast cancer cells via induction of insulin receptor substrate-2.
+therapy	Progesterone prevents radiation-induced apoptosis in breast cancer cells.
+therapy	Progesterone and progestins increased VEGF mRNA in T47-D breast cancer cells, but Delta4-tibolone was less effective than progestogens on this angiogenic gene in the T-47 D cells.
+therapy	Progesterone receptor regulation by retinoic acid in the human breast cancer cell line T-47D.
+therapy	Progesterone receptor-containing T47D human breast cancer cells are responsive to progestins but fail to respond to other steroid hormones, in particular dexamethasone, because they have no measurable levels of receptors for estrogens, androgens, or glucocorticoids.
+therapy	Progesterone receptors (PR) from human breast cancer cells have been purified, and used as antigens to generate anti-PR monoclonal antibodies.
+therapy	Progesterone receptors of T47Dco human breast cancer cells consist of two equimolar hormone-binding proteins of mol.
+therapy	Progesterone receptor replenishment in T47D human breast cancer cells.
+therapy	Progesterone stimulates production and secretion of MUC1 epithelial mucin in steroid-responsive breast cancer cell lines.
+therapy	Progesterone may modulate expression of MUC1 in steroid-responsive breast cancer cells.
+therapy	Progesterone has biphasic effects on proliferation of breast cancer cells; it stimulates growth in the first cell cycle, then arrests cells at G1/S of the second cycle accompanied by up-regulation of the cyclin-dependent kinase inhibitor, p21.
+therapy	Progesterone inhibits growth and induces apoptosis in breast cancer cells: inverse effects on Bcl-2 and p53.
+therapy	Progesterone receptor induction by danazol in cultured cancer cells and the rat uterus.
+unknown	Progesterone receptor gene inactivation and CpG island hypermethylation in human leukemia cancer cells.
+unknown	Progesterone induces BRCA1 mRNA decrease, cell cycle alterations and apoptosis in the MCF7 breast cancer cell line.
+unknown	Progesterone receptors (PR) were tested on specimens from 28 patients and 39% (10/26) of the cancers were PR-positive.
+unknown	Progesterone receptor (PR) mRNA was upregulated in the Ishikawa endometrial cancer cell line.
+unknown	Progesterone receptor gene expression is induced by estrogen in MCF-7 human breast cancer cells.
+unknown	Progesterone receptor status of breast cancer metastases.
+unknown	Progesterone pre-treatment potentiates EGF pathway signaling in the breast cancer cell line ZR-75.
+unknown	Progesterone receptor, Ki-67, tumor stage, and nodal status were prognostic factors for distant failure in early-stage breast cancer in young patients.
+unknown	Progesterone receptor was measured in 97 breast cancer biopsy samples with two methods, the multiple point dextran coated charcoal method with Scatchard analysis and enzyme immunoassay.
+unknown	To investigate the significance of the hormonal receptors (ER: estrogen receptors; PgR: Progesterone receptors) as prognostic factors in breast cancer, 213 patients with breast cancer (stages I-III) who were examined for both receptors and had not received adjuvant hormonal therapy have been studied so as to determine a disease-free survival rate.
+unknown	Progesterone receptor regulation in T47D human breast cancer cells: analysis by density labeling of progesterone receptor synthesis and degradation and their modulation by progestin.
+unknown	Progesterone receptor quantification with radiolabeled promegestone (R 5020) in frozen sections of endometrium and breast cancer tissue.
+unknown	Progesterone receptor synthesis and degradation in MCF-7 human breast cancer cells as studied by dense amino acid incorporation.
+unknown	Progesterone receptors were detectable in 29% of ovarian cancer specimens.
+unknown	Progesterone receptor levels in MCF-7 human breast cancer cells increase as a specific response to estrogen and to some nonsteroidal antiestrogens.
+unknown	Progesterone agonists and antagonists induce down- and up-regulation of estrogen receptors and estrogen inducible genes in human breast cancer cell lines.
+unknown	Progesterone binding cyst protein (PBCP) was measured in breast cancer cytosols from 128 pre- and post-menopausal women with operable node positive (pN+) breast cancer Stage II.
+unknown	Progesterone receptor is a time-dependent prognosticator in node-negative breast cancer patients (cutoff point for PgR, 80 fmol/mg).
+unknown	Progesterone receptors were detected in 63 of 74 breast cancer specimens (85%).
+unknown	Progesterone levels greater than 15 fmol/mg membrane protein were found in 36% of normal pancreas, in 27% of chronic pancreatitis, and in 17% of pancreatic cancer cases, respectively.
+unknown	Progesterone receptor (PR) assay was performed on tumor specimen obtained from 145 women consisting of 82 women with advanced breast cancer and 73 women with early breast cancer (EBC).
+unknown	Progesterone receptor density was significantly higher in breast cancers with absent/low Id-1 expression compared to those with moderate/strong expression (p &lt; 0.001, t-test).
+unknown	Progesterone receptors (PRs) are prognostic markers in breast cancers irrespective of the patient's progestational status.
+unknown	Progesterone receptor B protein levels in primary ovarian cancer cultures (2.08 +/- 0.42) were twice that of normal surface ovarian epithelium cultures (1.00 +/- 0.10, P =.04), although differences in progesterone receptor B messenger RNA and progesterone receptor A protein expression were not observed.
+unknown	Progesterone receptor A and B expression and progestagen treatment in growth and spread of endometrial cancer cells in nude mice.
+unknown	Progesterone regulation of activating protein-1 transcriptional activity: a possible mechanism of progesterone inhibition of endometrial cancer cell growth.
+unknown	Progesterone receptors (PgR) are present in many breast cancers, but few specific actions of progestins in breast cancer cells have been reported.
+unknown	Progesterone receptor is a surrogate marker of estrogen receptor activity in breast cancer and its utility in helping predict clinical outcome has been established using biochemical assays.
+unknown	Progesterone but not estradiol 17beta potentiates local GH secretions by hormone-dependent breast cancer explants.
+promote	In contrast, diethylenetriamine (DET) effectively inhibited the development of the early effects of spermine, but was ineffective against the spermine-induced CNS excitation and tonic convulsions.
+induce	Similarly, 1,10-diaminodecane appeared to act as a partial agonist in vivo, although it was less potent than arcaine.
+therapy	Ramelteon was generally well tolerated; the most commonly reported adverse events occurring in more ramelteon than placebo recipients were somnolence (5% vs 3%), fatigue (4% vs 2%) and dizziness (5% vs 3%).
+therapy	 The sleep-promoting action of ramelteon (TAK-375) in freely moving cats.
+therapy	Ramelteon (TAK-375) is an MT1/MT2 receptor agonist being studied for the treatment of insomnia and circadian rhythm sleep disorders.
+therapy	Ramelteon and melatonin were each suspended in a 0.5% (weight per volume) methylcellulose solution and administered orally to freely moving cats.
+therapy	Based on its unique mechanism of action, ramelteon should be studied further to evaluate its potential for the treatment of sleep disorders.
+inhibit	Ramelteon has negligible affinity for the MT3 binding sites and other receptors in the brain, including the opiate, dopamine, benzodiazepine and serotonin receptors, which may explain the lack of significant adverse events and lack of abuse or dependence potential observed with ramelteon.
+inhibit	In a first-night-effect model of transient insomnia, ramelteon 8mg was significantly more effective than placebo at reducing sleep latency and increasing total sleep time.
+inhibit	Ramelteon has been shown to have no potential for abuse or dependence.
+inhibit	We compared the behavioral effects of ramelteon and exogenous melatonin in freely moving cats.
+inhibit	The effects of ramelteon lasted for up to 6 hours when evaluated by reduction of wakefulness.
+inhibit	Exogenous melatonin (0.01-1 mg/kg) significantly increased slow-wave sleep, but the effect was weaker than that of ramelteon and lasted for only 2 hours.
+inhibit	The lowest doses of ramelteon (0.0001 mg/kg) and melatonin (0.001 mg/kg) had no significant effect on sleep-wakefulness stage.
+unknown	In three clinical trials in patients with chronic insomnia, ramelteon 8mg was effective in reducing sleep latency, without being associated with any significant or clinically relevant residual effects.
+unknown	Each dose of ramelteon or melatonin was compared with the vehicle control in a crossover design.
+unknown	Ramelteon significantly decreased wakefulness at doses of 0.001,0.01, and 0.1 mg/kg, increased slow-wave sleep at doses of 0.001, 0.01, and 0.1 mg/kg, and increased rapid eye movement sleep at a dose of 0.1 mg/kg, compared with the vehicle controls, as assessed by analysis of variance.
+unknown	Ramelteon was more effective than exogenous melatonin in promoting and maintaining sleep in freely moving cats.
+inhibit	Sumatriptan 100 mg orally was more effective in the acute treatment of migraine than oral combination therapy consisting of ergotamine 2 mg plus caffeine 200 mg or aspirin 900 mg plus metoclopramide 10 mg. Pooled data from nearly 5000 patients treated with either oral or subcutaneous sumatriptan in clinical trials indicate that it is well tolerated.
+inhibit	It is likely that migraine recurrence is related to the short half-life of the drug (approximately 2 hours).
+inhibit	In conclusion, sumatriptan is an important addition to the range of drugs currently available for acute treatment of migraine.
+inhibit	Nevertheless, sumatriptan presently offers a combination of efficacy and tolerability that is unique in this particular clinical setting.
+inhibit	 Sumatriptan in the acute treatment of migraine.
+inhibit	Sumatriptan is a selective 5-HT1-like agonist, which is effective in the treatment of migraine and cluster headache.
+inhibit	It has been rigorously assessed in clinical trials involving over 7000 patients who have treated over 35,000 migraine attacks.
+inhibit	Headache relief with sumatriptan was also superior to that seen with aspirin plus metoclopramide.
+inhibit	Arrhythmias are common and may be life threatening especially when the effects of vasospasm are seen in those ECG leads that reflect the potential variations of the epicardial surface of the left ventricle.
+inhibit	We reported a 35-year-old male patient with Reye's syndrome, who showed temporarily lesions of claustrum, striatum, hippocampus and amygdala on CT, MRI and PET scan.
+inhibit	The parainfluenza virus type I titer was 32 times on admission and increased up to 128 times two weeks later.
+inhibit	The most severely disabled segment of migraineurs, including those whose attacks usually required bed rest, or who vomited 20% or more of the time, were excluded.
+inhibit	The nonprescription combination of acetaminophen, aspirin, and caffeine was highly effective for the treatment of migraine headache pain as well as for alleviating the nausea, photophobia, phonophobia, and functional disability associated with migraine attacks.
+inhibit	Little is known about the magnitude of the health problem posed by analgesic rebound headache, its epidemiology, the characteristics of analgesic rebound headache sufferers, or about physicians' approaches to treatment.
+inhibit	No one analgesic was consistently identified as causative, although acetaminophen, butalbital + aspirin + caffeine, and aspirin were commonly used by patients.
+inhibit	At the time of admission, 37 of the 50 patients had transformed migraine (TM), 12 had new daily persistent headache (NDPH), and 1 had chronic tension-type headache; 29 of the patients with TM, 7 of those with NDPH, and the single patient with chronic tension-type headache had coexistent migraine.
+inhibit	10.1 mg morphine equivalents/d) and ergotamine in 11 (av.
+inhibit	Of these, 44% had an excellent or good result and 28% a fair result; 3 were overusing analgesics.
+inhibit	Analgesics containing butalbital compounded with aspirin, acetaminophen, and/or caffeine are widely used for the treatment of migraine and tension-type headache.
+inhibit	The common strategy to treat a migraine attack as soon as it begins, made for classical acute antimigraine treatments such as ergotamine and analgesics, has not been transposed to the triptans.
+inhibit	 Chronic daily headaches: clinical profile in Indian patients.
+inhibit	Chronic daily headache (CDH) remains a relatively unexplored entity in India.
+inhibit	History of past episodic migraine was present in all.
+inhibit	Analgesic overuse was limited between intake of 600 and 2400 mg of aspirin equivalent per day (mean 735 mg).
+inhibit	CDH in India is not uncommon.
+inhibit	 Acetylsalicylic acid activates antinociceptive brain-stem reflex activity in headache patients and in healthy subjects.
+inhibit	The smallest clinically useful dose of ibuprofen is 200 mg. Ibuprofen 400 mg has been shown to be as effective as aspirin 600 or 900 mg/day in models of moderate pain but superior to aspirin or paracetamol in more sensitive models such as dental pain.
+inhibit	These patients took between 150 and 420 BAC/month for 2-15 years.
+inhibit	The other two patients were still BAC free 18 and 14 months after detoxification.
+inhibit	Headaches are a very common complaint for general practitioners and neurologists.
+inhibit	Beta-blockers are used for first line prophylactic treatment of migraine.
+inhibit	Chronic paroxysmal hemicrania is a rare type of cluster headache with an absolute effectiveness of indomethacin.
+inhibit	However, it is probably the most intense facial pain.
+inhibit	In a case-control study we compared use of over-the-counter analgesics by 563 women from eastern Massachusetts and New Hampshire, USA, who had epithelial ovarian cancer with 523 women from the general population.
+inhibit	Use of over-the-counter analgesics was assessed through interviews and defined as use at least once a week continuously for at least 6 months.
+inhibit	Relative to no use, the lower risk of ovarian cancer associated with paracetamol was more apparent for use on a daily basis, 0.39 (0.21-0.74), for more than 10 years of use, 0.40 (0.19-0.88), or for more than 20 tablet years defined as (tablets per day x years of use), 0.45 (0.20-0.99).
+inhibit	The optimum oral dosage of nabumetone for OA patients is 1 g once daily, which is well tolerated.
+inhibit	Clinical trials and a decade of worldwide safety data and long-term postmarketing surveillance studies show that nabumetone is generally well tolerated.
+inhibit	In common with other COX inhibitors, nabumetone may increase the risk of GI perforations, ulcerations and bleedings (PUBs).
+inhibit	The analgesic syndrome, comprising renal disease, hypertension, peptic ulcer, anaemia and recurrent headache, accounts for wide-spread morbidity and mortality especially in Queensland and New South Wales.
+inhibit	In small animals, papillary necrosis results from prolonged feeding with large doses of aspirin and a number of other anti-inflammatory agents more readily than when phenacetin, paracetamol or phenazone is given alone.
+inhibit	Findings from a CSF examination disclosed a notable elevation of protein and a polymorphonuclear pleocytosis.
+inhibit	 Secondary stroke prevention with low-dose aspirin, sustained release dipyridamole alone and in combination.
+inhibit	Patients who had survived a stroke or transient ischaemic attacks (TIA) were admitted to a trial of low-dose aspirin (50 mg) alone, sustained release dipyridamole (400 mg/day) alone, or a combination of the two agents, and results compared with a placebo over 24 months.
+inhibit	In combination, aspirin and dipyridamole produced a risk reduction of 37% in stroke, 24% in stroke and/or death, and no reduction in mortality.
+inhibit	The conclusions are that 50 mg/day of aspirin alone or 400 mg/day of sustained release dipyridamole alone are equally effective in stroke and TIA prevention.
+inhibit	 Central nervous system structure and function in Sturge-Weber syndrome: evidence of neurologic and radiologic progression.
+inhibit	We studied 20 cases to test the hypothesis that decreased cerebral blood flow alters neurologic function by affecting cellular glucose metabolism.
+inhibit	Group A consisted of 10 patients with a mean age of 1.75 years and early seizure onset (6.8 months), whereas group B was composed of older patients (mean age, 15.3 years) with later onset of seizures (3.7 years).
+inhibit	Although all of the OTC analgesic/antipyretic agents seem to share a common mechanism of prostaglandin inhibition, there are important differences in their pharmacology, efficacy, and side-effect profiles.
+inhibit	Hypertensive disorders are among the most common causes of maternal and perinatal mortality.
+inhibit	Migraine is the most common form of disabling primary headache and affects approximately 12% of studied Caucasian populations.
+inhibit	Preventive treatments for migraine should usually be considered on the basis of attack frequency, particularly its trend to change with time, and tract-ability to acute care.
+inhibit	The triptans--sumatriptan, naratriptan, rizatriptan, zolmitriptan, almotriptan, eletriptan and frovatriptan--are potent serotonin, 5-HT1B/1D, receptor agonists which represent a major advance in the treatment of acute migraine.
+inhibit	Asymptomatic purpuric pigmentations developed on the flexure side of the right lower extremity in a linear arrangement 2-3 months before presentation.
+inhibit	The effect of daily aspirin (ASA) administration after "desensitisation" was studied in 16 aspirin-sensitive asthmatics.
+inhibit	Daily aspirin resulted in decreases in both the mean asthma score and in daily beta-agonist usage in 7/14 patients, and 10/13 patients showed a decrease in bronchial responsiveness to inhaled histamine (geometric mean of provocative concentration of histamine 1.8 and 5.8 mg/ml, respectively.
+inhibit	Our study suggests that daily aspirin administration after "desensitisation" may be helpful in the management of some ASA-sensitive asthmatics.
+inhibit	The risk of renal papillary necrosis and renal dysfunction due to the chronic use of nonsteroidal anti-inflammatory drugs (NSAIDs) is unknown.
+inhibit	Twenty-nine of these patients (42%) had consumed excessive quantities of NSAIDs alone; an additional nine patients (13%) had consumed NSAIDs predominantly in combinations with paracetamol, aspirin, phenacetin, caffeine, and/or traditional herbal medications.
+inhibit	Recent understanding of the mechanisms behind migraine pain generation and perception have considerably helped the development of modern migraine drugs.
+inhibit	In four studies, comprising 1900 patients, the caffeine-containing analgesic consisted of a combination of 500 mg acetaminophen, 500 mg aspirin, and 130 mg caffeine (APAP/ASA/CAF).
+inhibit	In two studies, comprising 911 patients, the caffeine-containing analgesic consisted of a combination of 1000 mg acetaminophen and 130 mg caffeine (APAP/CAF).
+inhibit	In all six studies, the caffeine-containing analgesics were significantly superior both to placebo and to 1000 mg acetaminophen, and acetaminophen was significantly superior to placebo.
+inhibit	For each treatment, the pooled analgesic responses for the four studies of APAP/ASA/CAF were virtually superimposable on the responses in the two APAP/CAF studies.
+inhibit	We assessed platelet activation by using flow cytometry to measure platelet surface expression of P-selectin and glycoprotein IIb/IIIa in 20 patients with AMI and 20 with UA, all of whom were treated with aspirin.
+inhibit	Platelet studies were repeated after the infusion of a nitric oxide donor (glyceryl trinitrate or S-nitrosoglutathione) that produced a fall in mean arterial pressure of no more than 10 mm Hg.
+inhibit	P-selectin was expressed on 2.5% (range, 1.4% to 6.3%) of platelets from AMI and 2.3% (range, 1.6% to 3.3%) from UA subjects compared with 1.0% (range, 0.6% to 1.9%) of platelets from 20 control volunteers without angina (P &lt; .001).
+inhibit	Increases in CGRP levels were also observed in response to prostaglandin D2 (PGD2), and the EP2 receptor selective agonist, butaprost.
+inhibit	These data indicate that activation of DP, EP and IP receptors can each cause CGRP release from trigeminal neurones, and suggest that the predominant EP receptor subtype involved may be the EP2 receptor.
+inhibit	Together with evidence that the cyclo-oxygenase inhibitor, aspirin, particularly when administered intravenously is effective in treating acute migraine, these findings further suggest a role for prostaglandins in migraine pathophysiology.
+inhibit	Prospective trials using aspirin treatment to reduce recurrent stroke showed a significant recurrence of neurologic events in patients with a PFO and atrial septal aneurysm.
+inhibit	Valdecoxib 10 mg/day was as effective as naproxen and rofecoxib in improving signs and symptoms of OA.
+inhibit	In patients with dysmenorrhoea, valdecoxib 20 or 40 mg up to twice daily provided as effective pain relief as naproxen sodium 550 mg twice daily.
+inhibit	In acute post-surgical pain, single-dose valdecoxib 40 mg had a rapid onset of action, provided similar analgesia to oxycodone 10 mg plus paracetamol (acetaminophen) 1000 mg and provided a longer time to rescue medication than rofecoxib or oxycodone/paracetamol after oral surgery.
+inhibit	Pre-emptive administration of valdecoxib 10-80 mg was particularly effective in dental pain.
+inhibit	It was as effective in RA, OA and primary dysmenorrhoea (the approved indications) as nonselective NSAIDs and as effective as rofecoxib in RA flare.
+inhibit	The role of serotonin in the pathogenesis of migraine is discussed, and the chemistry, pharmacology, pharmacokinetics, efficacy, adverse effects, and dosage and administration of sumatriptan are reviewed.
+inhibit	Studies have shown that both subcutaneous sumatriptan and oral sumatriptan are superior to placebo in relieving migraine and cluster headaches.
+inhibit	Subcutaneous sumatriptan 6 mg and oral sumatriptan 100 mg seem to offer the best benefit-to-risk ratio, although dosage and administration information is limited.
+inhibit	Subcutaneous and oral sumatriptan are effective in aborting moderate to severe migraine and cluster headaches and their associated symtpoms.
+inhibit	However, more studies are necessary to compare sumatriptan's efficacy with that of other treatments before it can be recommended as first-line therapy for migraine.
+inhibit	The daily headaches were present on awakening in the morning or came about in the course of the morning in 79% of the patients.
+inhibit	The headaches awoke the patients at night at least once per week in 36%.
+inhibit	Ninety-four percent of the patients experienced severe headaches in addition to the daily headaches.
+inhibit	The daily caffeine intake of the patients averaged 170 mg, and the daily analgesic intake, 1860 mg of aspirin equivalents.
+inhibit	In the absence of clear evidence of dose-related efficacy of the two most commonly used analgesics, aspirin (acetylsalicylic acid) and paracetamol (acetaminophen), this study compared two doses of each with placebo.
+inhibit	In a double-blind, double-dummy, randomized parallel-groups comparative trial, 638 consenting subjects aged 16-65 years with episodic TTH (but not migraine) by IHS criteria were recruited from the UK general population by advertisement.
+inhibit	The primary objective was to compare aspirin 1000 mg with placebo, and the primary end-point was subjective pain relief (total or worthwhile) 2 h after treatment ('response').
+inhibit	Additionally, pain intensity on a 100-mm visual analogue scale and functional impairment were monitored regularly for 4 h and at 24 h, although rescue medication was allowed after 2 h. The analysis was of the intention-to-treat population of 542 who took treatment (all providing outcome data).
+inhibit	Also, development of late onset bronchospasm (up to 14 hours) may be related to MSG reactions.
+inhibit	(1) Several antiplatelet drugs have proven preventive efficacy, including aspirin, aspirin + dipyridamole, clopidogrel, ticlopidine and flurbiprofen.
+inhibit	Simple analgesics such as ibuprofen, aspirin, and acetaminophen have long been used in the treatment of tension-type headache.
+inhibit	 Children and medicines: self-treatment of common illnesses among Luo schoolchildren in western Kenya.
+inhibit	In a rural area of western Kenya, primary schoolchildren's health seeking behaviour in response to common illnesses was investigated.
+inhibit	57 primary schoolchildren (age 11-17 years, median 13 years) were interviewed weekly about their health status and health seeking activities for 30 weeks.
+inhibit	The children each experienced on average 25 illness episodes during this period.
+inhibit	Of the episodes without adult involvement, 81% remained untreated, while 19% were treated by the children themselves with either herbal or Western medicines.
+inhibit	Among boys, the proportion of illnesses, which were self-treated increased with age from 12% in the youngest age group (&lt; 13 years) to 34% in the oldest (&gt; 14 years).
+inhibit	The proportion of Western pharmaceuticals used for self-treatment increased with age from 44% in the youngest age group to 63% in the oldest (average 52% Western pharmaceuticals).
+inhibit	Again, there were differences between boys and girls: among the youngest age group, boys were twice as likely to use pharmaceuticals than girls (62 versus 32% of the self-treatments, respectively) and in the oldest age group they were nearly three times more likely (75 versus 25%, respectively).
+inhibit	Successful withdrawal from the offending analgesics was achieved without hospitalization or significant interference with daily life and with complete disappearance of the induced chronic daily headache in 25 of 26 patients.
+inhibit	Based on the results of published controlled trials, the main prophylactic drugs are some betablockers, methysergide, pizotifene, oxetorone, flunarizine, amitriptyline, NSAIDs, and sodium valproate.
+inhibit	Some less evaluated drugs such as aspirin, DHE, indoramine, verapamil, may be useful.
+inhibit	For example, a hypertensive migraine sufferers may benefit from betablockers; in a patient who suffers both from migraine and tension type headaches or from depression, amitriptyline is the first choice drug.
+inhibit	The type of migraine should also be considered; for instance, in frequent attacks with aura, aspirin is recommended and betablockers avoided.
+inhibit	Relaxation, biofeedback, stress coping therapies, acupuncture are also susceptible to be effective in migraine prophylaxis.
+inhibit	Arterial thromboses occur most frequently in the cerebral arteries, leading to ischemic disorders of cerebral circulation (DCC).
+inhibit	The present work summarises the results of our own studies and of the reported data on DCC in PAPS.
+inhibit	Their characteristic features Include the relationship with occlusion of the intracerebral or intracranial rather than of the great vessels of the head, liability for recurrences in the absence of secondary prophylaxis, frequently occurring association with primary disorder of cerebral circulation (PDCC), good restoration of the focal neurologic deficit after the first stroke, more frequent development in women.
+inhibit	The clinical recognition of DCC which stem from aPL output is favoured by the presence in the patients of the basic non-cerebral signs of PAPS (miscarriage peripheral venous thrombosis, myocardial infarction) as well as by the presence of the additional evidence of PAPS (livedo, induration of heart valves according to the EchoCG data, epileptic syndrome, migraine-like headaches, chorea in the anamnesis, and so forth).
+inhibit	In most cases, they precede the first DCC by several years or months.
+inhibit	Until twenty years ago, aspirin, phenazone derivatives and acetaminophen had been used as standard remedies for intercurrent harmless pain conditions in connection with infections, trauma, small surgeries, but also for tension headache and other painful conditions.
+inhibit	During the last decades, this group has been supplemented by a variety of 2-arylpropionic acids being primarily developed for the treatment of rheumatic pain and inflammation.
+inhibit	Nevertheless, pharmacodynamic and pharmacokinetic differences among the various substances of this group make them suitable to a different degree for the treatment of pain conditions.
+inhibit	In persons experiencing tension-vascular headaches (162), only aspirin, at two hours, was superior to placebo, but direct comparison with acetaminophen suggested no real difference.
+inhibit	Sumatriptan is a potent and selective agonist at a vascular serotonin1 (5-hydroxytryptamine1; 5-HT1) receptor subtype (similar to 5-HT1D) and is used in acute treatment of migraine and cluster headache.
+inhibit	Following administration of sumatriptan 100mg orally, relief of migraine headache (at 2 hours) was achieved in 50 to 67% of patients compared with 10 to 31% with placebo in controlled clinical trials.
+inhibit	In a comparative study, oral administration of sumatriptan 100mg consistently achieved significantly greater response rates than a fixed combination of ergotamine 2mg plus caffeine 200mg during 3 consecutive migraine attacks (66 vs 48% for first attack).
+inhibit	Oral sumatriptan 100mg was also more effective than aspirin 900mg plus metoclopramide 10mg orally in a similar study.
+inhibit	Injection site reactions (minor pain and redness of brief duration) occur in approximately 40% of patients receiving subcutaneous sumatriptan, although the incidence appears to be markedly reduced when patients self-administer the drug with an auto-injector.
+inhibit	Sumatriptan is contraindicated in patients with ischaemic heart disease, angina pectoris including Prinzmetal (variant) angina, previous myocardial infarction and uncontrolled hypertension, but is not contraindicated in patients with migraine and asthma.
+inhibit	Data from long term studies in acute treatment of migraine and cluster headache suggest that sumatriptan remains effective and well tolerated over several months.
+inhibit	A number of double-blind clinical trials have demonstrated that sumatriptan 100 mg administered orally is clearly superior to placebo in the acute treatment of migraine headache and achieves significantly greater response rates than ergotamine or aspirin.
+inhibit	Sumatriptan was also effective in relieving associated migraine symptoms like nausea and vomiting.
+inhibit	Sumatriptan was equally effective regardless of migraine type or duration of migraine symptoms.
+inhibit	Overall, approximately 40% of patients who initially responded to oral or subcutaneous sumatriptan experienced recurrence of their headache usually within 24 h, effectively treated by a further dose of this drug.
+inhibit	The recommended dosage of sumatriptan at the onset of migraine symptoms is 100 mg orally or 6 mg subcutaneously.
+inhibit	Treatment of acute tension-type headache episodes is more effective with an NSAIDs (ibuprofen 400-800mg, naproxen 550-825mg, ketoprofen 50-75mg) than with aspirin or paracetamol.
+inhibit	Caffein containing preparations of NSAIDs are slightly superior, but should not be taken frequently to avoid headache chronification.
+therapy	A review of its pharmacodynamic and pharmacokinetic properties, and therapeutic efficacy in the acute treatment of migraine and cluster headache.
+therapy	Its antimigraine activity is believed to derive from selective vasoconstriction of cranial blood vessels which are dilated and distended during migraine headache and/or from inhibition of neurogenically mediated inflammation in the dura mater.
+therapy	In placebo-controlled comparative studies, sumatriptan reduced migraine headache from 'moderate or severe' to 'mild or none' within 2 hours in 50 to 73% of patients following oral administration of 100 or 200 mg, and within 1 hour in 70 to 80% of patients following subcutaneous doses of 6 to 8 mg or intranasal doses 20 mg into each nostril.
+therapy	However, migraine recurrence within 24 or 48 hours of initial symptom resolution developed in approximately 40% of patients treated with sumatriptan, irrespective of route of administration.
+therapy	Future studies should attempt to ascertain whether additional doses of sumatriptan will help prevent migraine recurrence in patients with attacks of long duration and if so, should determine the optimum interval between dosages.
+therapy	The onset of effect is rapid, occurring 10 min after injection and 30 min after the tablet.
+therapy	Oral sumatriptan (100 mg) has been evaluated against ergotamine, 2 mg, plus caffeine, 200 mg (as Cafergot); and against aspirin, 900 mg, plus metoclopramide, 10 mg. Headache relief was superior in sumatriptan-treated patients; 66% obtaining relief at 2 h, compared with 48% on Cafergot (P &lt; 0.001).
+therapy	The percentage of patients obtaining complete relief of headache (Grade 0, no pain) was significantly higher with sumatriptan (40%) than with Cafergot (14%) at 2 h. Associated symptoms such as nausea, vomiting and photophobia are effectively relieved by sumatriptan, whereas Cafergot provoked nausea and vomiting in a proportion of patients.
+therapy	After taking 4 tablets of aspirin (335 mg x 4), he developed severe headache and status epileptics.
+therapy	 Efficacy and safety of acetaminophen, aspirin, and caffeine in alleviating migraine headache pain: three double-blind, randomized, placebo-controlled trials.
+therapy	To assess the effectiveness of the nonprescription combination of acetaminophen, aspirin, and caffeine in alleviating migraine headache pain.
+therapy	Two tablets of the nonprescription combination of acetaminophen, aspirin, and caffeine or placebo taken orally as a single-dose treatment of 1 eligible acute migraine attack.
+therapy	Other migraine headache characteristics, such as nausea, photophobia, phonophobia, and functional disability, were significantly improved 2 to 6 hours after treatment with the acetaminophen, aspirin, and caffeine combination compared with placebo (P&lt; or =.01).
+therapy	More than 40% of respondents indicated that analgesic rebound headache was present in at least 20% of their patients.
+therapy	On average, the physicians reported that 73% of patients with analgesic rebound headache were women.
+therapy	Analgesic rebound headache was most likely to occur in patients aged 31 to 40 years.
+therapy	Analgesic rebound headache was recognized as a distinct entity and a substantive component in more than 40% of the practices of 174 surveyed practitioners.
+therapy	They had been detoxified, given repetitive intravenous dihydroergotamine (IV DHE) and prophylactic medications as part of the program, and had become headache-free on this regimen.
+therapy	At 24 months, 39 patients were analyzed: 59% had a good or excellent result and 28% a fair result; 5 were overusing analgesics, 4 of whom were doing poorly.
+therapy	Meanwhile, there seems to be no medical reason to withhold treatment of a mild headache with a triptan as long as triptan intake does not exceed 1 or 2 doses per week.
+therapy	Most mild headaches in patients with migraine appear indeed to be mild migraine attacks, even when the headache characteristics are those of tension-type headache.
+therapy	The distribution of these was as follows: (i), chronic tension-type headache (CTH), 33 (16.1%); (ii), chronic/transformed migraine (TM), 169 (82.4%); (iii), new persistent CDH, 3 (1.5%).
+therapy	There were 169 cases of TM (M : F 1 : 4.7; age 26-58 years).
+therapy	Ergot overuse varied between 1 and 3 mg/day of ergotamine for &gt; or = 3 days/week.
+therapy	The average dose of analgesic implicated in CDH seems much less compared with that reported in the West.
+therapy	Participating in the randomized double-blind crossover study were 20 patients with migraine without aura, 20 patients with tension-type headache, and 20 healthy subjects.
+therapy	ES1 and ES2 elicited by an electrical stimulus of 20 mA lasting 0.2 msec were recorded during maximal voluntary contraction of the mastication muscles before and 30 min after medication.
+therapy	In a randomized and double-blind fashion half of the subjects were given 1200 mg of aspirin in the form of an effervescent solution and the other half were given an identically tasting solution without aspirin.
+therapy	In giving aspirin as opposed to the placebo, there was a significant interaction between groups and drug effect on the latency of ES1; whereas in migraine patients and in patients with tension-type headache the latency of ES1 was reduced by administration of aspirin, it was increased in healthy subjects (P less than or equal to 0.05).
+therapy	The duration of action of ibuprofen 400 mg is at least 6 hours compared with 4-6 hours for ibuprofen 200 mg or paracetamol.
+therapy	In patients undergoing oral surgery, ibuprofen 200 mg was broadly comparable with naproxen 220 mg and ibuprofen 400 mg comparable with ketoprofen 25 mg.
+therapy	 A protocol for butalbital, aspirin and caffeine (BAC) detoxification in headache patients.
+therapy	The abuse of the combination drug containing butalbital 50 mg, aspirin 325 mg and caffeine 40 mg (or BAC), is commonly recognized by headache specialists as causing headaches.
+therapy	Despite this widespread problem, there is not a published treatment regimen for the BAC detoxification of patients.
+therapy	These patients fulfilled the diagnostic criteria of the IHS Headache Classification for headaches induced by chronic substance abuse (8.2) and analgesics abuse headache (8.2.2).
+therapy	Nonsteroidal antiinflammatory drugs and muscle relaxants are used for tension-type headache.
+therapy	The prevalence of cluster headache is about 0.1%.
+therapy	Acute treatment consists in inhalation of 100% oxygen at 7 liters/min using a facial mask for 15 minutes or subcutaneous sumatriptan (6 mg), at most twice daily.
+therapy	The odds ratio for risk of ovarian cancer for aspirin use was 0.75 (95% CI 0.52-1.10), that for ibuprofen was 1.03 (0.64-1.64), and that for paracetamol was 0.52 (0.31-0.86), after adjusting for age, study centre, education, religion, parity, oral contraceptive use, and menstrual, arthritic, or headache pain.
+therapy	There was a modest but non-significant inverse association with aspirin use and ovarian cancer and no association with ibuprofen use.
+therapy	The most frequent adverse effects are those commonly seen with COX inhibitors, which include diarrhoea, dyspepsia, headache, abdominal pain and nausea.
+therapy	Compared with COX-2 selective inhibitors, nabumetone exhibits similar anti-inflammatory and analgesic properties in patients with arthritis and there is no evidence of excess GI or other forms of complications to date.
+therapy	After 160 mg of aspirin, he developed hypotension, tachycardia, and flushing accompanied by difficulty of breathing and headache.
+therapy	The patient's symptoms subsided, and after 1 hour aspirin was again administered, this time with no side effects.
+therapy	The dosage was increased to 975 mg every 6 hours, and he has had no further hypotensive episodes on this regime for 2 years.
+therapy	A 22-year-old woman with systemic lupus erythematosus experienced generalized pruritus, shortness of breath, pleuritic chest pain, visual blurring, severe photophobia, a stiff neck, an occipital headache, and a temperature of 39.4 degrees C within one hour after taking sulindac (Clinoril).
+therapy	The sustained release dipyridamole produced a significant risk reduction of 16% for stroke, 15% for stroke and/or death but no significant reduction of mortality.
+therapy	Neurologic disease was more severe in group A, but group B had more widespread structural brain defects - shown on computed tomographic scans and magnetic resonance imaging - and metabolic brain defects shown on hexamethylpropyleneamine oxime and [18F] fluorodeoxyglucose single photon emission computed tomographic scans.
+therapy	Six group A cases had hypoperfusion at baseline and five of nine had worsening of perfusion and glucose metabolism 1 year later.
+therapy	A total of 119 stroke-like episodes occurred in six group A cases and eight group B cases; there were 65% fewer strokes in children treated with aspirin.
+therapy	Calcium supplementation during pregnancy seems to be effective in reducing the risk of hypertension and to a smaller extent of preeclampsia.
+therapy	Antihypertensive drugs are recommended, if a sustained blood pressure of diastolic &gt; or = 110 mmHg is recorded, in cases of superimposed preeclampsia even if the diastolic blood pressure is &gt; or = 100 (&gt; or = 90) mmHg.
+therapy	Calcium-channel-blocking drugs are frequently used in the USA and in the UK as "second-line" antihypertensive medication, however there is little experience with the long-term administration of these drugs to pregnant women with hypertension.
+therapy	Non-pharmacological management of migraine largely consists of lifestyle advice to help sufferers avoid situations in which attacks will be triggered.
+therapy	 Acetaminophen in the treatment of headaches associated with dipyridamole-aspirin combination.
+therapy	The headaches were self-limited (69.4% placebo efficacy in 2 hours) and the incidence markedly declined over time.
+therapy	Case 1: 35-year-old female.
+therapy	Case 2: 26-year-old female.
+therapy	Case 1 on the left arm was compatible with lichen purpuricus.
+therapy	Case 2 occurred in a linear arrangement on the right leg and had a history of aspirin use for chronic headache.
+therapy	Fourteen patients completed the trial; 12 of them also had perennial rhinitis and eight in addition suffered from chronic headache.
+therapy	Of those patients who consumed NSAIDs alone, 17 had consumed only a single type of NSAID and the remaining 12 had consumed multiple types of NSAIDs.
+therapy	The reasons given for consuming NSAIDs include gouty arthritis (18 patients), osteoarthritis (seven patients), rheumatoid arthritis (six patients), chronic headache (three patients), gouty arthritis plus chronic headache (three patients), and chronic backache (one patient).
+therapy	The occurrence of analgesic nephropathy was predominantly in males (male to female ratio, 1.9:1).
+therapy	 Ginger (Zingiber officinale) in migraine headache.
+therapy	It is proposed that administration of ginger may exert abortive and prophylactic effects in migraine headache without any side-effects.
+therapy	 Caffeine as an analgesic adjuvant in tension headache.
+therapy	Patients self-medicated for moderate or severe headache pain, and with a self-rating record they rated their pain and its relief hourly for 4 hours.
+therapy	Glycoprotein IIb/IIIa expression was 101.6 +/- 2.7 arbitrary units of relative fluorescence in AMI and 100.2 +/- 3.3 in UA compared with 87.8 +/- 2.5 in control subjects (P &lt; .01).
+therapy	In 3 of 20 patients receiving glyceryl trinitrate the lowest dose was not tolerated due to headache or hypotension.
+therapy	Prostaglandins and the vasodilator neuropeptide, calcitonin-gene related peptide (CGRP), have both been implicated in the pathogenesis of migraine headache.
+therapy	The selective DP receptor antagonist, BWA868C, antagonized the PGD2-, but not PGE2- or cPGI2-induced release.
+therapy	Initial results in patients with migraine headache were promising.
+therapy	The incidence of gastroduodenal ulcers was generally lower than with nonselective NSAIDs (i.e.
+therapy	NSAIDs not specifically developed as selective COX-2 inhibitors).
+therapy	With concomitant aspirin, the ulcer rate in valdecoxib recipients increased significantly, but was still lower than that in recipients of aspirin plus nonselective NSAIDs.
+therapy	Its subcutaneous bioavailability approaches 100%, and its mean terminal half-life is two hours.
+therapy	Studies comparing oral sumatriptan with either ergotamine tartrate plus caffeine (Cafergot) or aspirin plus metoclopramide indicated that sumatriptan relieved headache more quickly and effectively; however, the dosages of these other agents may have been suboptimal.
+therapy	We studied the presentation of chronic daily headache in 258 patients from a private headache practice, 50 men and 208 women.
+therapy	Chronic daily headache was defined as headaches, occurring at least 5 days per week for at least 1 year.
+therapy	Seventy-seven percent of the patients experienced the onset of headache before the age of 30.
+therapy	At least twice per week, they were associated with nausea in 35% of the patients and with vomiting in 9%.
+therapy	 Aspirin in episodic tension-type headache: placebo-controlled dose-ranging comparison with paracetamol.
+therapy	Burning, pressure, and tightness or numbness in the face, neck, and upper chest following ingestion of Chinese food favors a diagnosis of adverse reaction to MSG.
+therapy	(2) Aspirin has essentially gastrointestinal adverse effects, whose incidence can be limited by prescribing a daily dose below 350 mg.  (3) The addition of dipyridamole to aspirin can cause headache and diarrhoea.
+therapy	(5) Adverse effects are less frequent and less severe with clopidogrel than with ticlopidine.
+therapy	(6) Like other nonsteroidal antiinflammatory drugs, flurbiprofen has mainly gastrointestinal adverse effects.
+therapy	In 28% of them, an adult was consulted, while 72% were not reported to an adult caretaker.
+therapy	Ten to 15% of patients attending headache clinics and 1% of the general population suffer from chronic daily headache due to medication misuse.
+therapy	The mean age of the group was 14.2 years (range, 12-18), and the mean headache history duration was 1.6 years (range, 3 months to 4 1/2 years).
+therapy	The mean number of headache days per month was 28.1 (range, 19-31).
+therapy	All patients had no history of migraine prior to the chronic headache phase according to the International Headache Society criteria.
+therapy	They were using at least one dose of analgesic drug for each headache, whereas 16 were using analgesic drugs daily.
+therapy	In 5 patients, the daily headache resolved; however, they suffered from intermittent episodic migraine attacks, which were frequent enough in 3 to initiate prophylactic medication.
+therapy	The treatment efficacy has to be assessed after 2 or 3 months, during which the patient must keep a headache diary.
+therapy	The prognosis is highly variable: excellent in cases limited to local signs, but very poor leading to death or major sequelae in about 15% of cases.
+therapy	 Comparison of 650 mg aspirin and 1,000 mg acetaminophen with each other, and with placebo in moderately severe headache.
+therapy	The three demographically similar subgroups took either 1,000 mg acetaminophen, 650 mg aspirin, or an identical placebo, for headache.
+therapy	Headache intensity and relief scores over the following six hours were obtained and assessed by sums of pain intensity difference and values of pain relief scores analyses.
+therapy	The headache is usually bilateral, nonpulsatile and of longer duration than migraine, with no focal signs or symptoms.
+therapy	In the majority of controlled clinical trials, headache relief (at 1 hour after administration) was achieved in 70 to 80% of patients with migraine receiving sumatriptan 6mg subcutaneously compared with 18 to 26% of placebo recipients.
+therapy	Approximately 40% of patients who initially responded to oral or subcutaneous sumatriptan experienced recurrence of their headache, usually within 24 hours, but the majority of these patients responded well to a further dose of sumatriptan.
+therapy	Patients with cluster headache were treated for acute attacks with sumatriptan 6mg subcutaneously or placebo in 2 crossover trials.
+therapy	Headache relief was achieved within 15 minutes in 74 and 75% of patients receiving sumatriptan in these studies compared with 26 and 35%, respectively, with placebo.
+therapy	Chest symptoms (mainly tightness and pressure) occur in 3 to 5% of sumatriptan recipients, but have not been associated with myocardial ischaemia except in a few isolated cases.
+therapy	The mode of action of this drug in migraine and cluster headache is discussed.
+therapy	In other studies, 70 to 80% of patients receiving sumatriptan 6 mg sc experienced relief of migraine headaches by 1 or 2 h after administration, and patients consistently required less rescue medication for unresolved symptoms.
+therapy	In 75% of patients with cluster headache treated with sumatriptan 6 mg sc, relief was achieved within 15 min.
+therapy	For chronic tension-type headache, relaxation therapies with EMG biofeedback and tricyclics have about the same efficacy rate of 40-50p.100.
+unknown	Sumatriptan is a serotonin1 (5-HT1) receptor agonist, which is effective in the acute treatment of migraine headache.
+unknown	Both subcutaneous and oral sumatriptan provide a high level of efficacy with 86% of patients obtaining relief after a single 6 mg injection (at 2 h) and 75% after 100 mg oral sumatriptan (4 h), compared with up to 37% in the placebo-treated group (P &lt; 0.001).
+unknown	Sumatriptan was as effective in the relief of accompanying nausea and vomiting as aspirin plus metoclopramide.
+unknown	(ABSTRACT TRUNCATED AT 250 WORDS)
+unknown	PVA has been associated with vasospastic disorders such as Raynaud's phenomenon and migraine headaches.
+unknown	He was previously healthy and affected upper respiratory infection.
+unknown	The serum GOT and GPT elevated to 499 IU/l and 221 IU/l respectively.
+unknown	On 13-18 days of illness, abnormal lesions appeared in bilateral claustrum and striatum on CT and MRI.
+unknown	On 49 days of illness, abnormal lesions appeared in bilateral hippocampus and amygdala.
+unknown	All these lesions changed into normal on MRI on 111 days of illness.
+unknown	The 18F-FDG PET study on 80 days of illness revealed high uptake on striatum, hippocampus and amygdala bilaterally and changed into normal on 130 days of illness.
+unknown	He has improved markedly but showed long-standing abnormal signs of limbic dementia.
+unknown	Migraineurs with moderate or severe headache pain who met International Headache Society diagnostic criteria for migraine with aura or without aura.
+unknown	Of the 1357 enrolled patients, 1250 took study medication and 1220 were included in the efficacy-evaluable data set.
+unknown	Main Outcome Measures: Pain intensity difference from baseline; percentage of patients with pain reduced to mild or none.
+unknown	Significantly greater reductions in migraine headache pain intensity 1 to 6 hours after dose were seen in patients taking the acetaminophen, aspirin, and caffeine combination than in those taking placebo in each of the 3 studies.
+unknown	Pain intensity was reduced to mild or none 2 hours after dose in 59.3% of the 602 drug-treated patients compared with 32.8% of the 618 placebo-treated patients (P&lt; .001; 95% confidence interval [CI], 55%-63% for drug, 29%-37% for placebo); at 6 hours after dose, 79% vs 52%, respectively, had pain reduced to mild or none (P&lt;.001; 95% CI, 75%-82% vs 48%-56%).
+unknown	In addition, by 6 hours after dose, 50.8% of the drug-treated patients were pain free compared with 23.5% of the placebo-treated patients (P&lt;.001; 95% CI, 47%-55% for drug, 20%-27% for placebo).
+unknown	Completed questionnaires were returned by 174 practitioners (37%) from 40 states, the District of Columbia, and Puerto Rico.
+unknown	 Chronic daily headache: long-term prognosis following inpatient treatment with repetitive IV DHE.
+unknown	We retrospectively studied the long-term (2-year) outcome of 50 consecutive patients admitted to our inpatient headache program because of chronic daily headache (CDH) associated with the overuse of analgesics, ergotamine, or both.
+unknown	2187 mg/d), aspirin in 24 (av.
+unknown	Follow-up evaluations were performed at 3, 6, 12, and 24 months after discharge.
+unknown	(ABSTRACT TRUNCATED AT 250 WORDS)
+unknown	Despite their frequent clinical use for migraine, they have not been studied in placebo-controlled trials among patients with migraine.
+unknown	Higher doses can produce withdrawal syndromes after discontinuation.
+unknown	 When should triptans be taken during a migraine attack?
+unknown	Pain-free responses and therapeutic gains over aspirin (acetylsalicylic acid)-metoclopramide or ergotamine-caffeine combinations were increased under these conditions.
+unknown	CDH has been defined as headaches occurring more than 15 days per month for more than 3 months (secondary causes excluded).
+unknown	Over 2 years (1998-1999) 849 cases (49.6% of all primary headaches) were seen.
+unknown	More than 1 year's follow-up data were available in 205 subjects (M 34; F 171).
+unknown	Possible factors in transformation included psychological stress (44.4%), analgesic overuse (28.4%), ergot overuse (4.1%).
+unknown	About 80% of these relapsed on therapy withdrawal.
+unknown	(ABSTRACT TRUNCATED AT 250 WORDS)
+unknown	Dihydroergotamine (DHE) with metoclopramide was used (Raskin).
+unknown	Propranolol 60 mg bid was started.
+unknown	After hospital discharge, patients were allowed to continue subcutaneous DHE, as needed.
+unknown	 [Neurologic diagnosis and therapy of headaches].
+unknown	When a regional cause has been excluded, the neurologist will class headaches according to the criteria of the International Headache Society.
+unknown	An estimate of the 1-year prevalence of migraine in adults is about 10-15%.
+unknown	First line treatment of migraine attacks consists in aspirin (1 g) with or without metoclopramide or nonsteroidal antiinflammatory drugs.
+unknown	Tension-type headache is by far the most common form of headache with a prevalence ranging from 30% to 80% and is more prevalent in women than in men.
+unknown	 Over-the-counter analgesics and risk of ovarian cancer.
+unknown	Evidence that aspirin and other non-steroidal anti-inflammatory drugs reduce risk for colorectal cancer has prompted interest in their ability to prevent other cancers.
+unknown	 Nabumetone: therapeutic use and safety profile in the management of osteoarthritis and rheumatoid arthritis.
+unknown	Nabumetone is a nonsteroidal anti-inflammatory prodrug, which exerts its pharmacological effects via the metabolite 6-methoxy-2-naphthylacetic acid (6-MNA).
+unknown	Essentially no unchanged nabumetone and &lt; 1% of the major 6-MNA metabolite are excreted unchanged in the urine from which 80% of the dose can be recovered and another 10% in faeces.
+unknown	Nabumetone is clinically used mainly for the management of patients with osteoarthritis (OA) or rheumatoid arthritis (RA) to reduce pain and inflammation.
+unknown	In RA patients, nabumetone 1 g at bedtime is optimal, but an additional 0.5-1 g can be administered in the morning for patients with persistent symptoms.
+unknown	In RA, nabumetone has shown a comparable clinical efficacy to aspirin (acetylsalicylic acid), diclofenac, piroxicam, ibuprofen and naproxen.
+unknown	Through its metabolite 6-MNA, nabumetone has a dose-related effect on platelet aggregation, but no effect on bleeding time in clinical studies.
+unknown	All symptoms disappeared within 24 hours.
+unknown	This low-dose aspirin regimen produced in pairwise comparisons a significant risk reduction of 18% for stroke, 13% for stroke and/or death but no reduction in all cause mortality.
+unknown	It is just 100 years since the introduction of aspirin to medicine.
+unknown	Since then, aspirin and its derivatives have been joined by acetaminophen, and the nonsteroidal anti-inflammatory drugs--ibuprofen, naproxen sodium, and ketoprofen--as the only over-the-counter (OTC) agents approved by the US Food and Drug Administration for the short-term treatment of pain, headache, dysmenorrhea, and fever.
+unknown	The purpose of this paper is to review critically the history, mechanisms of action, efficacy, and tolerability of OTC analgesic and antipyretic products.
+unknown	Acute care treatments for migraine can be divided into non-specific treatments (general analgesics, such as aspirin or non-steroidal anti--inflammatory drugs) and treatments relatively specific to migraine (ergotamine and the triptans).
+unknown	Chronic daily headache in association with analgesic overuse is probably the major avoidable cause of headache disability in the developed world.
+unknown	The authors assessed the prevalence of headaches following extended-release dipyridamole/aspirin combination (DAC), and the efficacy of acetaminophen in the treatment of these headaches.
+unknown	Following DAC, 38.7% of the participants developed headaches.
+unknown	A group of three asymptomatic purpuric macules developed on the ulnar side of the elbow flexure of the left forear 3-6 months before presentation.
+unknown	 Clinical efficacy of aspirin in "desensitised" aspirin-sensitive asthmatics.
+unknown	During 4 weeks of daily treatment with 600 mg of ASA a marked reduction of the nasal symptoms score was noticed in 8/12 patients and head pain score was significantly decreased in 6/8 patients when compared with the 4-week non-ASA period.
+unknown	In a prospective study of 259 heavy analgesic users seen in a general medical hospital over an 11-year-period beginning in January 1982, 69 new cases of analgesic nephropathy with renal papillary necrosis were confirmed by intravenous urogram (26.6%), ultrasonography (30.4%), and/or computed tomography (43%).
+unknown	The amount of NSAIDs administered ranged from 1,000 to 26,600 capsules or tablets over a 2- to 25-year period.
+unknown	Renal impairment (serum creatinine, 126 to 778 mumol/L) was noted in 26 of these 38 patients (64.8%).
+unknown	(ABSTRACT TRUNCATED AT 250 WORDS)
+unknown	Most migraine drugs in use, i.e., ergotamine and dihydroergotamine, iprazochrome, pizotifen and diazepam; and non-steroidal antiinflammatory drugs (i.e.
+unknown	aspirin, paracetamol, persantin, etc.)
+unknown	Six randomized, double-blind, two-period crossover studies, conducted under similar protocols, compared the efficacy of two analgesic combinations containing caffeine with an acetaminophen 1000 mg control and with a placebo in outpatients with episodic tension-type headaches.
+unknown	 Characterization of the prostanoid receptor types involved in mediating calcitonin gene-related peptide release from cultured rat trigeminal neurones.
+unknown	A patent foramen ovale (PFO) is a frequent remnant of embryological development with clinical importance in thromboembolism, paradoxical embolism, stroke, platypnea-orthodeoxia, decompression sickness, and migraine headache.
+unknown	The American College of Rheumatology 20% response rate was similar in recipients of valdecoxib, naproxen and diclofenac in patients with RA.
+unknown	In conclusion, valdecoxib, a COX-2-selective inhibitor, is as efficacious in pain relief as nonselective NSAIDs, with better gastrointestinal tolerability.
+unknown	Common aggravating factors included light, physical activity, bending over, noise, stress or tension, and menstruation.
+unknown	In 63%, the severe headaches occurred 10 days per month or less.
+unknown	Most people with episodic tension-type headache (TTH) treat themselves with over-the-counter analgesics.
+unknown	They treated one episode of moderate or severe TTH with a single dose of 500 or 1000 mg aspirin, 500 or 1000 mg paracetamol or placebo.
+unknown	Aspirin 1000 mg (75.7% response rate; P = 0.0009) and to a lesser extent aspirin 500 mg (70.3%; P = 0.011) and paracetamol 1000 mg (71.2%; P = 0.007), but not paracetamol 500 mg (63.8%; P = 0.104), were statistically more effective than placebo despite a high placebo-response rate (54.5%).
+unknown	Adverse events reported by 13.4-18.9% of subjects were mild or moderate, and transient.
+unknown	Most episodes could be categorised into 4 groups: 'cold', 'headache', 'abdominal complaints' and 'injuries'.
+unknown	The most commonly used pharmaceuticals were antimalarials (mainly chloroquine), painkillers and antipyretics (mainly aspirin and paracetamol), which were stocked in most small shops in the village at low prices and readily sold to children.
+unknown	Nonetheless, analgesic-induced headache in children and adolescents was first reported in 1998.
+unknown	Over a period of 3 years, we evaluated 26 children (19 girls and 7 boys) with chronic daily or near-daily headache related to daily analgesic intake.
+unknown	The weekly analgesic intake averaged 28.1 tablets (range, 19-41).
+unknown	Withdrawal led to complete cessation of all headaches in 20 patients.
+unknown	 [Prophylactic treatments of migraine].
+unknown	Prophylactic treatment is mainly intended to reduce the frequency of migraine attacks.
+unknown	In case of a successful treatment, it should be continued for 6 or 12 months, and then, one should try to taper off the dose in order to stop the treatment or at least to find the minimum active dose.
+unknown	The secondary prophylaxis of DCC in PAPS includes the intake of indirect anticoagulants and.
+unknown	In up to 20% of cases it is bilateral or associated with vertebral artery dissection.
+unknown	It is mainly characterised by local signs such as headache or facial pain, Horner's syndrome, lower cranial nerve palsies and pulsatile tinnitus, followed a few hours or days later by signs of cerebral or retinal ischemia.
+unknown	Heparin in the acute stage followed by warfarin or aspirin for 3 to 6 months is most commonly used.
+unknown	Responses for the group, and for the subgroup with tension headaches (107 persons) showed no differences between the effects of the active medications.
+unknown	Acetaminophen (1,000 mg) and aspirin (650 mg) are clinically similar in treating the headaches for which they are commonly taken.
+unknown	While aspirin remains the most practical and useful analgesic for head pain of low intensity, combination agents are useful and drugs to control anxiety associated with headache are appropriate.
+unknown	A reappraisal of its pharmacology and therapeutic efficacy in the acute treatment of migraine and cluster headache.
+unknown	Patients receiving sumatriptan 12mg had a similar response rate as those receiving 6mg, but the higher dose was associated with an increased incidence of adverse events.
+unknown	(ABSTRACT TRUNCATED AT 400 WORDS)
+unknown	The recommended dosage for cluster headache is 6 mg sumatriptan sc.
+unknown	Sumatriptan must not be given together with vasoconstrictive substances, e.g., ergotamines, or with migraine prophylactics with similar properties, e.g., methysergide.
+unknown	Sumatriptan should not be given during the migraine aura.
+inhibit	 Cilazapril: an overview of its efficacy and safety in hypertension.
+inhibit	Cilazapril is a new once-daily angiotensin-converting (ACE) enzyme inhibitor which has been administered to 4,500 patients with mainly mild to moderate essential hypertension in a multinational clinical research program.
+inhibit	Overall, cilazapril is effective and well-tolerated in the treatment of patients with hypertension.
+inhibit	Treatment of patients with severe hypertension with cilazapril plus hydrochlorothiazide achieved a total responder rate of 73%.
+inhibit	Intravenous administration of C-peptide gradually increased electrophysiological activity of the vagus nerves into the stomach and pancreas for at least 90 min.
+inhibit	Intraperitoneal injection of C-peptide did not affect the basal and stress-induced norepinephrine (NE) turnover rate, a biochemical index of sympathetic nerve activity.
+inhibit	We studied the morphometrical and biochemical changes of endocrine pancreata in spontaneously hypertensive rats (SHR) and normotensive Wistar Kyoto rats (WKY) with or without noninsulin-dependent diabetes mellitus induced by neonatal streptozotocin (STZ) treatment at 4 months of age.
+inhibit	Pancreatic insulin secretion rates were measured by deconvolution of peripheral C-peptide over a 24-h period while subjects consumed an isocaloric mixed diet.
+inhibit	Proinsulin concentrations were significantly greater in the two diabetic groups than in control subjects, but, when expressed as a percentage of the total insulin immunoreactivity, the differences were significant only in the group with overt diabetes.
+inhibit	Weight loss because of hypocaloric feeding resulted in a significant increase in the rate of clearance of endogenously secreted insulin but did not affect the clearance of C-peptide.
+inhibit	First-degree relatives of NIDDM patients have an approximately 40% lifetime risk of developing diabetes, and insulin resistance is the best predictor.
+inhibit	However, insulin resistance is altered by many other factors, including age, diet, exercise, and medications.
+inhibit	To investigate the metabolic and endocrine alterations associated with insulin resistance when all the above confounding factors are excluded, we examined the first phase of insulin secretion and insulin sensitivity in 49 white normoglycemic (4.99 +/- 0.51 vs. 4.95 +/- 0.41 mmol/l) nonexercising lean (BMI, 24 +/- 3 vs. 23 +/- 2 kg/m2; 105 +/- 3 vs. 104 +/- 3% of ideal body weight) offspring of NIDDM patients.
+inhibit	These results suggest that, in this white population, insulin sensitivity may be determined by a single major gene and that alterations in FFA metabolism may play a role in the pathogenesis of NIDDM.
+inhibit	An increased proportion of fasting proinsulin (PI) relative to immunoreactive insulin (IRI; increased PI/IRI) occurs in noninsulin-dependent diabetes mellitus (NIDDM).
+inhibit	To determine whether the magnitude of the increase in PI/IRI is an indicator of the degree of reduced B cell secretory capacity, we measured fasting plasma glucose, PI, IRI, and PI/IRI and related them to maximal B cell secretory capacity (AIRmax) in 9 subjects with NIDDM [age, 61 +/- 3 yr; body mass index (BMI), 27.5 +/- 1.3 kg/m2; duration of NIDDM, 10.8 +/- 1.8 yr; mean +/- SEM] and in 10 healthy subjects matched for age and BMI (age, 61 +/- 6 yr; BMI, 27.9 +/- 1.5 kg/m2).
+inhibit	Although rats and mice have two proinsulin genes, three distinct migrating species are also produced upon proinsulin expression from a single wild-type human proinsulin cDNA.
+inhibit	The "Akita-type" proinsulin mutation, which causes dominant-negative diabetes mellitus due to point mutation C(A7)Y that leaves B7-cysteine without its disulfide pairing partner, is recovered as a form that near quantitatively co-migrates with the aberrant isomer 1 band of proinsulin.
+inhibit	 Plasma proinsulin in recently diagnosed type 2 diabetes mellitus.
+inhibit	 Demonstration of a relatively hepatoselective effect of covalent insulin dimers on glucose metabolism in dogs.
+inhibit	Insulin analogues with relatively greater effect on hepatic glucose production than peripheral glucose disposal could offer a more physiological approach to the treatment of diabetes mellitus.
+inhibit	The role of pancreatic beta-cells is fundamental in the control endocrine system, maintaining the blood glucose homeostais in a physiological regime, via the glucose-induced release of insulin.
+inhibit	Finally, we discuss the simulation results of the behavior of isolated beta-cells as well as of population of electrically coupled beta-cells in Langerhans islets, under physiological and pathological conditions, including noninsulin-dependent diabetes mellitus (NIDDM) and hyperinsulinemic hypoglycaemia (PHHI).
+inhibit	 The effect of human proinsulin C-peptide on erythrocyte deformability in patients with Type I diabetes mellitus.
+inhibit	In recent years, evidence has arisen that proinsulin C-peptide exerts biological effects especially on microcirculation, e.g.
+inhibit	Preincubation of the diabetic blood samples with various concentrations of human proinsulin C-peptide for 8 h restored the deformability of erythrocytes, almost reaching the values of control samples.
+inhibit	We conclude that proinsulin C-peptide is able to ameliorate the impaired deformability of erythrocytes in Type I diabetic patients and we hypothesise that this effect is mediated by restoration of Na(+)-K(+)-ATPase activity, which is known to be attenuated in diabetic patients.
+inhibit	Glucose metabolism was studied by a somatostatin-insulin-glucose infusion test (SIGIT) for 8 h in 7 male patients with insulin-dependent diabetes mellitus.
+inhibit	During the SIGIT, the levels of circulating free insulin and counterregulatory hormones were similar in the two tests notwithstanding that excessive hyperglycaemia appeared when SIGIT was preceded by hypoglycaemia.
+inhibit	The present study thus demonstrates that nocturnal hypoglycaemia induces insulin resistance in insulin-dependent diabetic patients not deprived of insulin.
+inhibit	 Serum proinsulin levels are disproportionately increased in elderly prediabetic subjects.
+inhibit	We examined the relationship of fasting specific insulin, proinsulin, and 32, 33 split proinsulin concentrations, and the proinsulin: insulin ration to the risk of developing NIDDM 3.5 years later in 65-74-year-old non-diabetic Finnish subjects participating in a population-based study (n=892) on diabetes and heart disease.
+inhibit	Moreover, this association was independent of fasting glucose concentration at baseline.
+inhibit	Thus, in elderly prediabetic subjects disproportionately increased proinsulin concentration, an indicator of defective insulin secretion, is associated with conversion to diabetes over a short time period.
+inhibit	The patients received s.c. injections of either human C-peptide (600 nmol/24 h) or placebo plus their regular insulin regimen for 3 months.
+inhibit	Glycaemic control improved slightly during the study and to a similar extent in both treatment groups.
+inhibit	In the 12 patients with signs of autonomic neuropathy prior to the study, respiratory heart rate variability increased by 21 +/- 9% (P &lt; 0.05) during treatment with C-peptide but was unaltered during placebo.
+inhibit	These results indicate that combined treatment with C-peptide and insulin for 3 months may improve renal function by diminishing urinary albumin excretion and ameliorate autonomic and sensory nerve dysfunction in patients with Type 1 diabetes mellitus.
+inhibit	Decreased skeletal muscle glucose disposal and increased endogenous glucose production (EGP) contribute to postprandial hyperglycemia in type 2 diabetes, but the contribution of hepatic glycogen metabolism remains uncertain.
+inhibit	Thus, impaired insulin sensitivity and/or chronic glucolipotoxicity in addition to the effects of an altered insulin-to-glucagon ratio or increased free fatty acids accounts for defective hepatic glycogen metabolism in type 2 diabetic patients.
+inhibit	Insulin resistance was assessed after a hypoglycemia induced by insulin (1.5 mU X kg-1 X min-1) between 7 and 8 a.m. in 10 well-insulinized patients with insulin-dependent diabetes mellitus (IDDM).
+inhibit	At the start of the subsequent SIGIT, blood glucose and plasma-free insulin concentrations were similar to those obtained in the control study without preceding hypoglycemia, and at this point all counter-regulatory hormones had returned to basal.
+inhibit	We conclude that hypoglycemia evokes a state of insulin resistance for several hours, as demonstrated by elevated blood glucose levels during a somatostatin-insulin-glucose-infusion test.
+inhibit	 Contribution of abnormal insulin secretion and insulin resistance to the pathogenesis of type 2 diabetes in myotonic dystrophy.
+inhibit	Myotonic dystrophy (MyD), the most common adult form of muscular dystrophy, is often complicated by diabetes.
+inhibit	MyD is dominantly inherited and is due to heterozygosity for a trinucleotide repeat expansion mutation in a protein kinase gene able to induce derangement of RNA metabolism responsible of an aberrant insulin receptor expression.
+inhibit	In nondiabetic, young MyD patients, insulin sensitivity was preserved, and an increased early secretory response to oral glucose was detected.
+inhibit	Abnormal plasma proinsulin levels in the fasting state, during the clamp, and during the OGTT were shown to be secretory dysfunctions peculiar of MyD patients and may be more important than insulin resistance in determining the high risk to develop diabetes in these patients.
+inhibit	 Compared to glibenclamide, repaglinide treatment results in a more rapid fall in glucose level and beta-cell secretion after glucose stimulation.
+inhibit	At the end of each treatment period, patients underwent a 60-min hyperglycaemic clamp (glucose 12 mmol L(-1)) followed by 4-h observation (60-300 min) with frequent blood sampling for determination of glucose, insulin, proinsulin and C-peptide levels.
+inhibit	Following glucose stimulation, plasma glucose levels, and insulin concentration decrease more rapidly after repaglinide treatment than after glibenclamide.
+therapy	This could explain, at least in part, the ameliorating effects of C-peptide on impaired cardiac autonomic nerve functions in patients with type 1 diabetes.
+therapy	Female (2-day-old) neonates were intraperitoneally injected with 62.5 or 75.0 mg/kg of STZ for SHR, 87.5 or 100.0 mg/kg of STZ for WKY, and vehicle for control.
+therapy	Percentage distribution of insulin-positive B cells in the islet was significantly reduced more in SHR than in WKY (34% of control versus 64% of control, p less than 0.05).
+therapy	Furthermore, pancreatic IRI content was far more reduced in SHR than in WKY (3% of control versus 43% of control, p less than 0.001).
+therapy	However, serum IRI was significantly lower but pancreatic IRI content was higher in SHR than in WKY.
+therapy	Subjects were then placed on caloric restriction for at least 6 weeks, during which time body weight fell by at least 10%.
+therapy	Refeeding with solid mixed meals was then resumed for at least 2 weeks until isocaloric intake was attained, and then the meal profiles were repeated.
+therapy	The offspring showed fasting hyperinsulinemia (40.6 +/- 15.8 vs. 30.9 +/- 13.6 pmol/l; P = 0.005) and higher free fatty acid (FFA) levels (582 +/- 189 vs. 470 +/- 140 micromol; P = 0.007), whereas triglycerides, total cholesterol, and HDL and LDL cholesterol levels were comparable with those of control subjects.
+therapy	Alanine (320 +/- 70 vs. 361 +/- 73 micromol/l; P = 0.017), serine (P = 0.05), and glutamine and glycine (P = 0.02) were lower in the offspring than in the control subjects, whereas branched-chain amino acids (343 +/- 54 vs. 357 +/- 54 micromol/l; P = 0.28) were not different.
+therapy	Insulin sensitivity was lower (4.86 +/- 1.65 vs. 6.17 +/ 1.56 mg x kg(-1) x min(-1); P = 0.001), and an inverse correlation with fasting FFAs in the offspring (adjusted R2 = 0.21, P = 0.0005), but not in control subjects (adjusted R2 = 0.03, P = 0.368), was found.
+therapy	The first phase of insulin secretion appeared to compensate significantly for insulin resistance in the low subgroup versus the normal subgroup and controls, but was inappropriately low in the subgroup with very low insulin sensitivity considering its degree of insulin resistance.
+therapy	In conclusion, lean insulin-resistant offspring of NIDDM parents showed 1) trimodal distribution of insulin sensitivity, 2) high fasting plasma FFA concentrations, 3) an inverse correlation between insulin sensitivity and FFA concentration, 4) low plasma gluconeogenic amino acid concentrations, and 5) defective insulin secretion when related to insulin sensitivity in the subgroup of very resistant offspring.
+therapy	Mean fasting plasma glucose was 13.7 +/- 1.4 mmol/L (range, 7.5-18.3 mmol/L) in NIDDM subjects and 5.0 +/- 0.1 mmol/L in the controls.
+therapy	Fasting PI was higher in NIDDM (33.1 +/- 5.2) than in controls (9.4 +/- 2.5 pmol/L; P &lt; 0.01), but IRI levels were similar (93.4 +/- 10.9 vs. 82.8 +/- 23.4 pmol/L; P = NS).
+therapy	The PI/IRI ratio correlated inversely with AIRmax in the NIDDM patients (r = -0.76; P &lt; 0.01).
+therapy	Thus, the fasting PI/IRI ratio appears to be a marker of the degree of reduced AIRmax in NIDDM.
+therapy	In addition at least two slower migrating "isomer 1 and 2" bands are recovered, not discernible under reducing conditions, which represent minor species that exhibit less efficient secretion.
+therapy	We measured levels of immunoreactive insulin (IRI) and proinsulin using a sensitive and specific immunoradiometric assay (IRMA), in non-obese recently diagnosed type 2 diabetic subjects.
+therapy	The proinsulin IRMA showed full cross reaction with intact proinsulin, des 31-32 proinsulin and des 64-65 proinsulin, but no reaction with insulin or C-peptide.
+therapy	In a group of 41 recently diagnosed non-obese Caucasian type 2 diabetic subjects (study group), mean fasting proinsulin levels were greater than that of 40 age and body mass index (BMI) matched controls (study group 17.4 +/- 2.0, controls 10.1 +/- 0.9 pmol-1, P &lt; 0.001).
+therapy	Following a standard test meal, 30 and 60 min levels were not significantly different between groups but 90- and 120-min proinsulin levels were elevated in the study group.
+therapy	The maximum proinsulin to IRI ratio was 20% in the fasting state and did not differ between study and control groups.
+therapy	Proinsulin did not correlate with indices of glycaemic control, total cholesterol, triglycerides or HDL cholesterol, but a relationship was observed with IRI before and after the meal.
+therapy	Acute effects of D-chiroinositol administration in streptozotocin-diabetic rats, normal rats given a glucose load, and spontaneously insulin-resistant rhesus monkeys.
+therapy	The acute effects of administration of D-chiroinositol (D-CI), a component of a putative mediator of insulin action, on plasma glucose were examined in low dose streptozotocin-treated rats and normal rats given a glucose load and the effects on plasma glucose and insulin were determined in five obese rhesus monkeys with varying degrees of spontaneous insulin resistance.
+therapy	Single dose intragastric D-CI (10 mg/kg) administered to streptozotocin-treated rats produced a 30-40% decrease in plasma glucose (P &lt; 0.05) at 30-120 min.
+therapy	Intravenously administered single dose D-CI (100 mg/kg) increased both the glucose and insulin disappearance rates by 129 +/- 41% (mean +/- SE; P &lt; 0.06) and 89 +/- 39% (P = 0.01), respectively, in all monkeys between 0-30 min compared to control values.
+therapy	Blood samples from healthy control subjects (n = 10) and Type I diabetic patients (n = 15) completely deficient of C-peptide were analysed at shear stresses ranging from 0.3 to 30 Pa. Erythrocyte deformability was lower in the group of Type I diabetic patients than in the control subjects.
+therapy	Random control subjects had lower proinsulin and 32, 33 split proinsulin concentrations and split proinsulin: insulin ratios compared to cases [5.7 (3.8-9.0) vs 7.3 (4.8-10.0) pmol/l, p=0.005; 7.3 (4.5-13.0 vs 10.4 (7.1-18.0) pmol/l, p=0.002; 0.073 (0.057-0.110) vs 0.097 (0.060- 0.135), p=0.003].
+therapy	Matched control subjects had lower proinsulin concentrations and proinsulin: insulin ratios compared to cases [5.9 (4.0-7.7) vs 7.3 (4.8-10.0) pmol/l, p=0.019; 0.048 (0.035-0.071) vs 0.064 (0.045-0.100), p=0.008].
+therapy	When cases were compared to matched control subjects a 1 SD increase in baseline proinsulin: insulin ratio was associated with a 1.37-fold risk (p=0.020) of developing diabetes.
+therapy	 Beneficial effects of C-peptide on incipient nephropathy and neuropathy in patients with Type 1 diabetes mellitus.
+therapy	This study was undertaken to determine if combined treatment with C-peptide and insulin might reduce the level of microalbuminuria in patients with Type 1 diabetes and incipient nephropathy.
+therapy	Thermal thresholds were significantly improved during C-peptide treatment in comparison to placebo (n = 6, P &lt; 0.05).
+therapy	 Alterations in postprandial hepatic glycogen metabolism in type 2 diabetes.
+therapy	Hepatic glycogen metabolism and EGP were monitored in type 2 diabetic patients and nondiabetic volunteer control subjects (CON) after mixed meal ingestion and during hyperglycemic-hyperinsulinemic-somatostatin clamps applying 13C nuclear magnetic resonance spectroscopy (NMRS) and variable infusion dual-tracer technique.
+therapy	Postprandial rates of EGP were approximately 0.3 mg x kg(-1) x min(-1) (30-170 min; P &lt; 0.05 vs. CON) higher in type 2 diabetic patients.
+therapy	Under clamp conditions, type 2 diabetic patients featured approximately 54% lower (P &lt; 0.03) net hepatic glycogen synthesis and approximately 0.5 mg x kg(-1) x min(-1) higher (P &lt; 0.02) EGP.
+therapy	Type 2 diabetic patients exhibit 1) reduction of postprandial hepatic glycogen synthesis, 2) temporarily impaired suppression of EGP, and 3) no normalization of these defects by controlled hyperglycemic hyperinsulinemia.
+therapy	During the SIGIT close to identical levels of plasma-free insulin and counter-regulatory hormones were registered, despite which a significant hyperglycemia was seen 2 hours after the start of the SIGIT when preceded by hypoglycemia.
+therapy	To assess insulin sensitivity and secretion before the onset of diabetes, we studied 10 MyD patients, 10 offspring of type 2 diabetes (OFF), and 10 healthy subjects with no family history of diabetes (control subjects) with dual X-ray energy absorption, euglycemic-hyperinsulinemic clamp (40 mU/[m(2).
+therapy	MyD had reduced lean body mass, but peripheral insulin sensitivity was not different to that of control subjects in contrast to OFF, which showed insulin resistance.
+therapy	Insulin secretion, obtained by deconvolution of OGTT data, was also shown to be comparable with that of OFF and control subjects (index of beta-cell function = Phi; P = 0.91) even if increased parameters of insulin secretion were found during the first 30 min (Phi(30); P = 0.05) of the oral glucose challenge.
+therapy	Fasting plasma proinsulin concentrations (P = 0.01) and the ratio to insulin (P = 0.01) were increased in MyD patients.
+therapy	The proinsulin levels also failed to be suppressed during the clamp and showed exaggerated response after the OGTT.
+therapy	Increased proinsulin levels were shown to be peculiar of MyD patients when compared with OFF.
+therapy	Before the clamp (5 min for repaglinide, 30 min for glibenclamide), patients ingested their usual morning drug dose.
+therapy	After the end of the hyperglycaemic clamp, mean plasma glucose fell to a level of 5 mmol L(-1) after approximately 150 min with repaglinide, and after approximately 190 min with glibenclamide.
+therapy	While initially quite similar, in the period from 240 to 300 min, insulin, proinsulin and C-peptide levels were lower during repaglinide treatment (insulin 133 +/- 20 vs 153 +/- 25 pmol L(-1) (P &lt; 0.05), proinsulin 14 +/- 3 vs 19 +/- 4 pmol L(-1) (P = 0.06) and C-peptide 0.81 +/- 0.19 vs 1.14 +/- 0.18 nmol L(-1) (P = 0.05) for repaglinide vs glibenclamide, respectively).
+unknown	In STZ-treated groups, overt hyperglycemia developed in SHR with significantly decreased serum immunoreactive insulin (IRI), whereas in WKY, hyperglycemia was very mild and serum IRI was not lowered.
+unknown	The number and mean size of pancreatic islets did not differ between SHR and WKY, although mean islet size was reduced by half in both compared with that in the corresponding control, respectively.
+unknown	 Alterations in immunoreactive proinsulin and insulin clearance induced by weight loss in NIDDM.
+unknown	Subjects with overt non-insulin-dependent diabetes mellitus (NIDDM) were studied in comparison to obese nondiabetic control subjects and patients with subclinical diabetes.
+unknown	Before weight loss, insulin, C-peptide, and insulin secretion rates were significantly higher in subjects with subclinical diabetes than in the other two groups.
+unknown	In obese subjects and those with subclinical diabetes, weight loss was associated with a reduction in insulin secretion rates, presumably as a result of improvements in insulin sensitivity.
+unknown	In patients with overt diabetes and hyperglycemia, weight loss improved beta-cell responsiveness to glucose and was associated with an increase in insulin clearance and a reduction in proinsulin immunoreactivity.
+unknown	(ABSTRACT TRUNCATED AT 250 WORDS)
+unknown	 Metabolic defects in lean nondiabetic offspring of NIDDM parents: a cross-sectional study.
+unknown	These subjects were compared with 29 matched healthy control subjects by means of an intravenous glucose bolus (0.3 g/kg body wt), immediately followed by a euglycemic-hyperinsulinemic (approximately 420 pmol/l) clamp, along with lipid and amino acid profiles.
+unknown	 Disproportionately elevated proinsulin levels reflect the degree of impaired B cell secretory capacity in patients with noninsulin-dependent diabetes mellitus.
+unknown	AIRmax was quantified as the incremental insulin response to i.v.
+unknown	arginine at maximal glycemic potentiation (plasma glucose &gt; 25 mmol/L).
+unknown	The PI/IRI ratio was significantly elevated in NIDDM compared to control subjects (35.9 +/- 4.1% vs. 12.8 +/- 0.8%; P &lt; 0.01).
+unknown	After elevation of the glucose level to 30.3 +/- 0.4 mmol/L (NIDDM) and 30.3 +/- 0.5 mmol/L (controls), AIRmax was quantified as 622 +/- 71 pmol/L in NIDDM and 1997 +/- 315 pmol/L in controls, (P &lt; 0.001).
+unknown	We conclude that the magnitude of the elevation in fasting PI/IRI is related to the reduction in AIRmax.
+unknown	Upon nonreducing Tris-Tricine-urea-SDS-PAGE, newly synthesized proinsulin from pancreatic islets of normal rodents forms a band fast mobility representing the native disulfide isomer, which is efficiently secreted.
+unknown	Such findings appear consistent with an hypothesis that supranormal production of nonnative proinsulin may predispose to pancreatic beta cell toxicity.
+unknown	Proinsulin profiles were similar in subjects receiving oral hypoglycaemic agents and those on dietary treatment alone.
+unknown	These results suggest that increased secretion of insulin precursors of low biological activity occurs in non obese recently diagnosed type 2 diabetic subjects under reasonably good glycaemic control; in such individuals the elevated levels of these precursors are approximately in proportion to the increase in IRI and are less than those reported in some previous studies.
+unknown	Covalent insulin dimers have previously been shown to possess lower hypoglycaemic potencies than predicted by their in vivo receptor binding affinities.
+unknown	To test the relative hepatic and peripheral effects of covalent insulin dimers, glucose clamp procedures with D-[3-3H]glucose tracer infusions were used in anaesthetised greyhounds to establish dose-response curves for rates of hepatic glucose production and glucose disposal with insulin, N alpha B1, N alpha B'1,-suberoyl-insulin dimer, and N epsilon B29, N epsilon B'29,-suberoyl-insulin dimer.
+unknown	With N alpha B1, N alpha B'1,-suberoyl-insulin dimer molar potencies relative to insulin were 68%, (34-133) (mean and 95% fiducial limits), for inhibition of hepatic glucose production and 14.7%, (10.3-20.9) for glucose disposal.
+unknown	With N epsilon B29,N epsilon B'29,-suberoyl-insulin dimer potencies were 75%, (31-184) and 2.5%.
+unknown	(1.5-4.3), for inhibition of hepatic glucose production and for glucose disposal, respectively.
+unknown	An increasing amount of detailed experimental evidences at the cellular and molecular biology levels have been collected on the key factors determining the insulin release by the pancreatic beta-cells.
+unknown	 Chiroinositol deficiency and insulin resistance.
+unknown	Single dose intragastric D-CI (2-15 mg/kg) administered to normal rats 2 h before ip glucose produced a 30-50% decrease (P &lt; 0.05) in plasma glucose.
+unknown	D-CI (10 mg/kg) caused a 50% increase (P &lt; 0.05) in glucose disappearance rates in these rats.
+unknown	D-CI administration, therefore, lowered elevated plasma glucose in streptozotocin-treated hyperglycemic rats, normal rats given a glucose load, and spontaneously insulin-resistant monkeys with or without noninsulin-dependent diabetes mellitus.
+unknown	Intravenous D-CI also lowered plasma insulin in these monkeys.
+unknown	C-peptide has been shown to increase skin microcirculation in patients with Type I (insulin-dependent) diabetes mellitus and to activate endothelial nitric oxide synthase.
+unknown	In contrast, proinsulin C-peptide did not modify the erythrocyte deformability of control subjects.
+unknown	 Insulin resistance following nocturnal hypoglycaemia in insulin-dependent diabetes mellitus.
+unknown	As expected, hypoglycaemia evoked an enhancement of the plasma levels of GH (43.7 +/- 10.1 vs 4.4 +/- 1.8 micrograms/l), cortisol (690 +/- 59 vs 140 +/- 32 nmol/l), glucagon (225 +/- 35 vs 143 +/- 25 ng/l), and epinephrine (3.80 +/- 1.00 vs 0.10 +/- 0.03 nmol/l).
+unknown	Insulin resistance and impaired insulin secretion are thought to be the primary defects in the pathogenesis of non-insulin-dependent diabetes mellitus (NIDDM).
+unknown	Disproportionately increased proinsulin relative to insulin levels are suggested to be an early indicator of a failing pancreas.
+unknown	Altogether 69 subjects developed NIDDM over a 3.5-year follow-up (cases).
+unknown	The cases were compared to randomly-selected gender-matched control subjects (n=69) and control subjects matched for gender, glucose tolerance status (normal or impaired), and body mass index (n=69).
+unknown	There were no differences in insulin concentrations between cases and random or matched control subjects [median and interquartile range: 123 (77-154), 108 (74-143), 118 (83-145) pmol/l, p=0.271].
+unknown	Recent studies have indicated that proinsulin C-peptide shows specific binding to cell membrane binding sites and may exert biological effects when administered to patients with Type 1 diabetes mellitus.
+unknown	Twenty-one normotensive patients with microalbuminuria were studied for 6 months in a double-blind, randomized, cross-over design.
+unknown	During the C-peptide treatment period, urinary albumin excretion decreased progressively on average from 58 microg/min (basal) to 34 microg/min (3 months, P &lt; 0.01) and it tended to increase, but not significantly so, during the placebo period.
+unknown	Hepatocellular lipid (HCL) content was quantified by 1H NMRS.
+unknown	Before dinner, hepatic glycogen was lower in type 2 diabetic patients (227 +/- 6 vs. CON: 275 +/- 10 mmol/l liver, P &lt; 0.001).
+unknown	After meal ingestion, net synthetic rates were 0.76 +/- 0.16 (type 2 diabetic patients) and 1.36 +/- 0.15 mg x kg(-1) x min(-1) (CON, P &lt; 0.02), resulting in peak concentrations of 283 +/- 15 and 360 +/- 11 mmol/l liver.
+unknown	 Studies of insulin resistance following hypoglycemia in insulin-dependent diabetes mellitus.
+unknown	Plasma epinephrine, growth hormone, and cortisol increased in response to hypoglycemia, while blunted responses of glucagon were simultaneously registered.
+unknown	min]) combined with infusion of [6,6-D(2)]-glucose and oral glucose tolerance test (OGTT).
+unknown	We studied 12 patients with type 2 diabetes (age 62 +/- 2 years, BMI 28.3 +/- 1.3 kg m(-2), HbA1c 6.7 +/- 0.2%) on SU monotherapy at submaximal dose.
+unknown	Patients were treated for 3 weeks with repaglinide or glibenclamide in a randomized, crossover trial.
+promote	Early and selective changes in lenticular ATP content and the partial or full protective effect of RR suggest that alterations in lens bioenergetics may play an important role in CIG-induced cataract formation.
+promote	The rat lens explant culture system has been used to screen thiazolidinediones against ciglitazone for their direct cataractogenic potential in vitro.
+induce	Potential mechanisms of toxicity were surveyed using whole rat lens explants exposed to CIG with or without various inhibitors of cataract formation.
+unknown	The cataractogenic potential of the thiazolidinedione ciglitazone (CIG) was investigated in vivo and in vitro.
+unknown	In the rat, CIG caused a dose-dependent (30-300 mg/kg/day) increase in incidence and severity of nuclear cataract formation during a 3-month nonclinical safety assessment study.induce	The frequency of isolation of methicillin resistant S. aureus (MRSA) has recently been increasing in skin infections.
+induce	 The surface protein Pls of methicillin-resistant Staphylococcus aureus is a virulence factor in septic arthritis.
+promote	 [Methicillin-reistant Staphylococcus aureus: risk factors for infection-colonization and clonal heterogeneity in intensive care units].
+promote	The aim of this study was to determine the risk factors associated with colonisation/infection by methicillin-resistant Staphylococcus aureus (MRSA) and to demonstrate the chain of infections by genotyping of all MRSA isolates.
+promote	Pls, a surface protein of certain methicillin-resistant Staphylococcus aureus strains, is associated with poor bacterial adherence to solid-phase fibronectin and immunoglobulin G, as well as with reduced invasion of cultured epithelial cells.
+promote	 Vancomycin-impregnated polymethylmethacrylate beads for methicillin-resistant Staphylococcus aureus (MRSA) infection: report of two cases.
+promote	Two patients with methicillin-resistant Staphylococcus aureus (MRSA) infection were treated with vancomycin (VCM)-impregnated polymethylmethacrylate (PMMA) beads.
+promote	 Lipopolysaccharide-induced myocardial depression is not mediated by cyclooxygenase products.
+promote	We tested the hypothesis that a sublethal dose of lipopolysaccharide in vivo induces in vitro atrial depression in rats via release of cyclooxygenase products.
+promote	The most important effect of oversedation is respiratory depression, hypotension, bradycardia, CNS depression, renal dysfunction, immunological depression.
+promote	NSAID-s may have an opioid sparing effect and be of particular benefit for the relief of pain from bones and joints.
+promote	The most common clinical signs of toxicosis were vomiting and diarrhea, CNS depression, and circulatory manifestations.
+promote	Our study was designed to investigate the potential of ibuprofen, a highly specific cyclooxygenase inhibitor, to reverse the hemodynamic and acid base abnormalities of canine endotoxin shock.
+promote	We conclude that ibuprofen protects against the hypotension, acidosis, and depression of cardiac index of canine endotoxin shock.
+promote	 Endotoxin-induced myocardial depression in rats: effect of ibuprofen and SDZ 64-688, a platelet activating factor receptor antagonist.
+promote	 Depression and C-reactive protein in US adults: data from the Third National Health and Nutrition Examination Survey.
+promote	The biological mechanisms by which depression might increase risk of cardiovascular disease are not clear.
+promote	Inflammation may be a key element in the development of atherosclerotic cardiovascular disease.
+promote	Our objective was to determine the association between major depression and elevated C-reactive protein (CRP) level in a nationally representative cohort.
+promote	We estimated the odds of elevated CRP level (&gt;0.21 mg/mL) associated with depression in 6914 noninstitutionalized men and women (age, 18-39 years) from the Third National Health and Nutrition Examination Survey (NHANES III).
+promote	The prevalence of lifetime major depression was 5.7% for men and 11.7% for women.
+promote	A history of major depression was associated with elevated CRP level (odds ratio [OR], 1.64; 95% confidence interval [CI], 1.20-2.24).
+promote	The association between depression and CRP was much stronger among men than among women.
+promote	Compared with men without a history of depression, CRP levels were higher among men who had a more recent (within 1 year) episode of depression (adjusted OR, 3.00; 95% CI, 1.39-6.48) and who had recurrent (&gt;or=2 episodes) depression (adjusted OR, 3.55; 95% CI, 1.55-8.14).
+promote	Major depression is strongly associated with increased levels of CRP among men and could help explain the increased risk of cardiovascular disease associated with depression in men.
+promote	In this study of ibuprofen overdose, symptoms developed in 19% of patients (24 of 126)--in 7% of children (6 of 88) and in 47% of adults (18 of 38).
+promote	Central nervous system depression, seizures, gastrointestinal disturbances, bradycardia, hypotension, apnea, abnormal renal functions, hematuria, nystagmus, and blurred vision were observed.
+promote	The number of reported ADRs per defined daily dose (DDD) sold was markedly lower for "older" drugs like the butazones, indomethacin, ibuprofen, naproxen, ketoprofen, and fenoprofen than for the drugs marketed during the last decade.
+promote	Of 67 fatal reactions, 25 were due to bleeding or perforation of a gastric ulcer, mostly during treatment with indomethacin and naproxen, and in elderly people, and 27 were caused by bone marrow depression or leukaemia, begun mostly during treatment with butazones, but some with indomethacin and naproxen as well.
+promote	Nausea, vomiting, abdominal cramps, mild central nervous system depression, coma, tachycardia, apnea, metabolic acidosis with or without respiratory alkalosis, hematemesis, and oliguric renal failure were noted.
+promote	The availability of ibuprofen without a prescription requires assessment of its acute toxicity in the general population.
+promote	Gastrointestinal disturbances and central nervous system depression were the most common clinical findings (42% and 30% of patients, respectively), but the severity was mild; only one patient had severe symptoms that could be attributed to ibuprofen.
+promote	Bronchial blood flow increased significantly in both groups throughout the experimental period; while stroke volume as well as right and left ventricular stroke work indices of both groups were significantly decreased (group I worse than group S) in the second half of the experimental period.
+promote	She presented with coma, hypotension, metabolic acidosis, and respiratory depression within four hours of ingestion.
+promote	This is the first report of pure fenoprofen overdose presenting as coma and metabolic acidosis.
+promote	 [A comparison of a tramadol/metamizole infusion with the combination tramadol infusion plus ibuprofen suppositories for postoperative pain management following hysterectomy].
+promote	Postoperative pain management is still a grossly neglected field.
+promote	Powerful narcotics are often avoided or underdosed because they are associated with the risk of respiratory depression.
+promote	Some authors recommend combined infusion of tramadol and metamizole, which is assumed to provide sufficient pain relief without the risk of respiratory depression.
+promote	The patients of both groups received 125 ml of the appropriate infusion solution as a loading dose over 10 min (corresponding to 1.25 mg metamizole and 100 mg tramadol in the metamizole/tramadol group or 100 mg tramadol in the ibuprofen/tramadol group) 10 min after awakening.
+promote	Postoperative pain was evaluated on the visual analogue scale (VAS) and the 101-point numerical rating scale immediately before the start of the infusion.
+promote	Significant postoperative pain reduction in both groups and on both the 101-point scale and the VAS was observed only at 100, 120, and 240 min after awakening.
+promote	Six patients additionally received intravenous piritramide because of insufficient pain reduction.
+promote	Satisfactory pain reduction occurred rather late despite high doses of both the tramadol/metamizole and the tramadol/ibuprofen.
+promote	Rarely, with ibuprofen and piroxicam, children who ingest small amounts in accidental exposure develop serious toxicity.
+promote	Drugs in the propionic acid group have produced metabolic acidosis, respiratory depression and coma in severe cases.
+promote	Treatment of NSAID overdose is entirely supportive.
+promote	Urine alkalinisation and diuresis have been recommended to enhance the elimination of NSAIDs, based on a pKa in the range of 3 to 5.
+promote	Multiple dose activated charcoal may be useful in enhancing elimination of NSAIDs with long half-lives, such as piroxicam and sulindac.
+induce	Pretreatment with ibuprofen did not prevent the depression in force of contraction but prevented the increase in TxB2 seen after lipopolysaccharide injection (p less than .05).
+induce	If mechanical ventilation is not well controlled, muscular relaxants must be prescribed.
+induce	These analgesics, besides peripherally, also work centrally by mechanisms which are not in connection with COX inhibition.
+induce	Ether-anesthetized rats were injected iv with normal saline (NS; 2.5 ml/kg), ibuprofen (cyclooxygenase inhibitor; 15 mg/kg), or SDZ 64-688 (PAF receptor antagonist; 5 mg/kg).
+induce	Thirty minutes later, the rats were injected iv with NS (5 ml/kg) or Escherichia coli 0111:B4 LPS (20 mg/kg).
+induce	Force of contraction indexed to body weight (FOCI; g/kg) was significantly (P less than 0.05) lower in the NS/LPS group (N = 7) than in the NS/NS group (N = 7).
+induce	Pretreatment with ibuprofen (ibuprofen/LPS group; N = 8) did not affect the adverse effect of LPS on atrial FOCI.
+induce	These results support the notion that LPS-induced myocardial dysfunction in the rat is mediated, at least in part, by PAF.
+induce	No patients ingesting less than 99 mg/kg by history developed any symptoms.
+induce	The total sale of NSAIDs showed a four-fold increase during the 17 years, the average corresponding to a permanent intake by 2.2% of the population.
+induce	It is pointed out that all reports on fatal bone marrow depression associated with butazones were submitted before 1976 and that the fact that none have been received since that time could be a result of better understanding of the proper dosage of the drug.
+induce	Ibuprofen serum concentrations correlated poorly with gastrointestinal symptoms (r = -.177), central nervous system findings (r = .176), presence of coingestants (r = .078), and presence of potentially life-threatening symptoms (r = .087).
+induce	We evaluated the usefulness of a previously published nomogram to predict ibuprofen toxicity; the positive predictive value for severe symptoms was 6% for all patients and 0% for patients ingesting ibuprofen alone.
+induce	We conclude that the frequency of life-threatening complications from ibuprofen overdose is low, the nomogram is not predictive of toxicity, and routine serum concentration determinations are not useful as an adjunct in the management of overdose cases.
+induce	Group S (n = 6) were insufflated with 48 breaths of cotton smoke; while group I (n = 6) were pretreated with ibuprofen (12mg/kg bolus followed by 3 mg/kg/h continuous infusion for 24 h) and challenged with the same dose of smoke.
+induce	These data suggest that vasodilatory prostaglandins do not play a major role in the bronchial vascular response to smoke inhalation injury and myocardial depression seen post injury is worse in animals treated with ibuprofen.
+induce	The most common adverse effects of the nonsteroidal anti-inflammatory drugs occur in both therapeutic and toxic doses and include gastrointestinal upset, blood dyscrasias, and analgesic nephropathy.
+induce	The remaining solution was administered at an infusion rate of 12.5-25 ml/h (corresponding to 125-250 mg metamizole and 10-20 mg tramadol/h or 10-20 mg tramadol/h).
+induce	In case of insufficient pain reduction despite repeated infusion of 125-ml boli or consumption of the entire infusion solution, the patients discontinued the study and received demand-adapted intravenous titration of piritramide.
+induce	Pain evaluation was repeated 20, 30, 40, 60, 100, 120, and 240 min after awakening accompanied by registration of heart rate, respiratory rate, systolic and diastolic blood pressure, and side effects.
+induce	Typical signs and symptoms of NSAID overdose include nausea, vomiting, headache, drowsiness, blurred vision and dizziness.
+induce	Seizures are rarely documented across all NSAID classes, with the exception of mefenamic acid (where seizures occur in over one-third of cases), or following massive ingestion of other agents.
+induce	Symptoms are unlikely after ingestion of 100 mg/kg or less, and are usually not life-threatening unless more than 400 mg/kg is ingested.
+induce	There is some relationship between plasma concentrations and the potential for development of symptoms, but plasma concentrations have no impact on treatment decisions.
+unknown	Undersedation is followed by anxiety, pain, hypertension, tachycardia.
+unknown	Morphine has long elimination half-time and there is a danger of acummulation after prolonged administration.
+unknown	infusion needs careful titration because of tolerance.
+unknown	The cyclo-oxygenase pathway is inhibited by NSAID-s.
+unknown	The most common NSAID consumed were ibuprofen, acetaminophen, aspirin, and indomethacin.
+unknown	Pets are at risk from NSAID toxicosis through administration by the owners or accidental consumption of improperly stored drugs.
+unknown	We tested the hypothesis that lipopolysaccharide (LPS)-induced myocardial dysfunction is mediated by cyclooxygenase-derived metabolites of arachidonic acid or platelet activating factor (PAF).
+unknown	In contrast, pretreatment with SDZ 64-688 (64-688/LPS group; N = 8) ameliorated (P less than 0.05) the deleterious effect of LPS on contractility.
+unknown	Results were adjusted for age, African American race, body mass index, total cholesterol, log triglycerides, diabetes, systolic blood pressure, smoking status, alcohol use, estrogen use in women, aspirin use, ibuprofen use, and self-reported health status.
+unknown	Two children had seizures or apnea and one died.
+unknown	Over the 17-year period 1969-1985, 2,721 reports of 3,521 suspected adverse drug reactions (ADRs) associated with non-steroidal anti-inflammatory drugs (NSAIDs) were submitted to the Danish Committee on ADRs.
+unknown	These differences could not be accounted for by the well-known biases attached to spontaneous ADR reporting.
+unknown	(ABSTRACT TRUNCATED AT 250 WORDS)
+unknown	We studied the effects of ibuprofen on bronchial blood flow and myocardial function after inhalation injury.
+unknown	 Nonsteroidal anti-inflammatory drugs and coma: a case report of fenoprofen overdose.
+unknown	Thirty women received two placebo suppositories immediately after induction of anaesthesia and a postoperative infusion of tramadol and metamizole (400 mg tramadol plus 5 g [= 10 ml] metamizole in 500 ml electrolyte solution).
+unknown	The 30 women of the control group received two ibuprofen suppositories (585.2 mg) preoperatively and a post-operative tramadol infusion (400 mg tramadol plus 10 ml placebo [NaCl 0.9%] in 500 mg electrolyte solution).
+unknown	On request or when complaining of stronger pain, the patients received an additional bolus infusion of 125 ml over 10 min.
+unknown	RESULTS.
+unknown	In the tramadol/metamizole group, nausea occurred in 7 cases and vomiting in 1.
+unknown	Nine patients in this group additionally required intravenous piritramide because of insufficient pain relief.
+unknown	In the tramadol/ibuprofen group, 8 patients complained about nausea and 4 patients vomited.
+unknown	Most NSAID overdoses result in a benign outcome.
+unknown	Despite the generally mild effects reported in large patient series, isolated case reports have documented serious toxicity, such as seizures, hypotension, apnoea, coma and renal failure.
