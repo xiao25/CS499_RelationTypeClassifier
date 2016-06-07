@@ -7,11 +7,12 @@ import gc
 cachedStopWords = stopwords.words("english")
 
 
-entity_1s = ['depression','insomnia','diarrhea']
-entity_2s = ['ibuprofen','moxifloxacin ','rabeprazole ']
+entity_1s = ['mice']
+entity_2s = ['plague']
 
-indexfilename1 = "disease2pubtator.json"
-indexfilename2 = "chemical2pubtator.json"
+#TODO change here
+indexfilename1 = "species2pubtator.json"
+indexfilename2 = "disease2pubtator.json"
 
 
 
@@ -58,6 +59,8 @@ def writeToFile(pid_intersect,keySet1,keySet2,i):
         f.write("\n")
 
         f.close()
+    else:
+        print('empty')
 
 def intersection(pidList1,pidList2):
     result = []

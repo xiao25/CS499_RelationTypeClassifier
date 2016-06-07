@@ -1,29 +1,8 @@
 __author__ = 'ztx'
 
-import os
+
 import json
-import os.path
 
-start = 0
-
-filename = "kidney_methicillin"
-
-
-def indexing(corpus,index_dict,query):
-    global  start;
-    corpus.seek(start,0)
-    while(corpus.tell() < os.fstat(corpus.fileno()).st_size):
-        pid = long(corpus.readline())
-        temp =  corpus.tell()
-        abstract = corpus.readline()
-
-        index_dict[pid] =temp
-        if(pid == query):
-            start = corpus.tell()
-            return abstract
-
-    start = corpus.tell()+1
-    return ""
 
 
 
@@ -32,50 +11,48 @@ def indexing(corpus,index_dict,query):
 def search(corpus,queryfile,indexfile):
     global start
 
-    if os.path.isfile(indexfile):
-        with file(indexfile) as f:
-            jsonstr = f.read()
-        wrapper = json.loads(jsonstr,object_hook=lambda d: {k: {long(i):value for i,value in v.items()} if isinstance(v,dict) else v for k, v in d.items()})
-        start = wrapper["start"]
-        index_dict = wrapper["index_dict"]
-    else:
-        index_dict = {}
+    # if os.path.isfile(indexfile):
+    #     with file(indexfile) as f:
+    #         jsonstr = f.read()
+    #     wrapper = json.loads(jsonstr,object_hook=lambda d: {k: {long(i):value for i,value in v.items()} if isinstance(v,dict) else v for k, v in d.items()})
+    #     start = wrapper["start"]
+    #     index_dict = wrapper["index_dict"]
+    # else:
+    #     index_dict = {}
+
+    with open(indexfile,"r") as content_file:
+        index_dict = json.load(content_file)
 
 
 
     corpus = open(corpus,"r")
 
-    with file(queryfile) as f:
-        querycont = f.read()
-    querylst = querycont.split(" ")
+    query = open(queryfile,"r")
+    for line in query:
+        querylst = line.split(" ")
+        break
+    query.close()
+    del querylst[-1]
+
+
+    find_pos = []
+    for pid in querylst:
+        pid = str(pid);
+        if pid in index_dict:
+            linenum = index_dict[pid]
+            find_pos.append(linenum)
 
     abstracts = []
-    for query in querylst:
-        query = long(query);
-        if query in index_dict.keys():
-            linenum = index_dict[query]
-            corpus.seek(linenum,0)
-            abstract = corpus.readline()
-            abstracts.append((query,abstract))
-        else:
-            abstract= indexing(corpus,index_dict,query)
-            if(abstract!=""):
-                 abstracts.append((query,abstract))
-
-
-    writefile = open("./data/index_dict/result_"+filename+".txt","w")
-    for (query,abstract) in abstracts:
-        writefile.write("%s\n%s"%(query,abstract))
+    find_pos.sort()
+    print(find_pos)
+    #TODO change here
+    writefile = open("Data/index_dict/result_mice_plague.txt","w")
+    for offset in find_pos:
+        corpus.seek(offset)
+        abstract = corpus.readline()
+        writefile.write(abstract+"\n")
 
     writefile.close()
-
-    dict_write = open("./data/index_dict/indexing.json","w")
-    wrapper = {}
-    wrapper["start"] = start
-    wrapper["index_dict"] = index_dict
-    json.dump(wrapper,dict_write)
-    dict_write.close()
-
 
 
 
@@ -101,7 +78,8 @@ class FileLineWrapper(object):
 
 
 def main():
-    search("/Users/ztx/Desktop/CS499/allTitileAbs_1_to_1052","Data/index_dict/query.txt","./data/index_dict/indexing.json")
+    #TODO change here
+    search("/Users/ztx/Desktop/CS499/allTitileAbs_1_to_1052","Data/pid/mice_plague.txt","./data/index_dict/index_corpus.json")
 
 
 if __name__ == "__main__":

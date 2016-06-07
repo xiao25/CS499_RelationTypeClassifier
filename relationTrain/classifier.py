@@ -49,10 +49,7 @@ def Train(X,Y):
     # intercept_scaling=1, loss='squared_hinge', max_iter=-1,
     # multi_class='ovr', penalty='l1', random_state=None, tol=0.01,
     # verbose=0)
-    # lin_clf.fit(X, Y)
 
-    # clf = GaussianNB()
-    # clf.fit(X,Y)
     return clf
 
 def main():

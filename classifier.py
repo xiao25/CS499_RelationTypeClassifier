@@ -3,7 +3,7 @@ __author__ = 'ztx'
 
 
 from sklearn import svm
-import numpy as np
+
 from sklearn.decomposition import PCA
 from sklearn.decomposition import SparsePCA
 from sklearn.feature_selection import SelectKBest

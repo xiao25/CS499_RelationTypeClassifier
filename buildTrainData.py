@@ -6,14 +6,14 @@ import nltk.data
 
 from nltk.corpus import stopwords
 cachedStopWords = stopwords.words("english")
-corpus_name = "./data/index_dict/result_kidney_ciprofloxacin.txt"
-filename = "kidney_ciprofloxacin.txt"
+corpus_name = "./data/index_dict/result_flu_children.txt"
+filename = "flu_children.txt"
 keySet1 = set()
 keySet2 = set()
 pid_intersect =[]
 word_list = []
-entity_1 = "kidnedy"
-entity_2 = "ciprofloxacin"
+entity_1 = "flu"
+entity_2 = "children"
 b = 0.5
 
 def readFromFile(filename):
@@ -71,7 +71,10 @@ def main():
 
     fwrite = open("./Data/04_12/"+filename,"w")
     for contextVector in contextVectors:
-        fwrite.write("%s\n"%contextVector)
+        try:
+            fwrite.write("%s\n"%contextVector)
+        except UnicodeEncodeError:
+            pass
     fwrite.close()
 
 
